@@ -1090,7 +1090,7 @@ DB906.9-920.5   			Description and travel.  Antiquities.  Ethnography
 DB921-958.6			History
 DB927-958.6				By period
 DB927-932.9					Early to 1792
-DB929-929.8						¡rp·d dynasty, 896-1301
+DB929-929.8						√Årp√°d dynasty, 896-1301
 DB929.95-931.9    						Elective kings, 1301-1526
 DB932.95-945   					1792-1918.  19th century
 DB934.5-939.5   						Revolution of 1848-1849
@@ -1559,7 +1559,7 @@ DL660-700.9					Early and medieval to 1523.  Union of Kalmar, 1397
 DL701-879					Modern, 1523-
 DL701-719.9						Vasa dynasty, 1523-1654.  Gustaf II Adolf, 1611-1632
 DL710-712							Wars with Denmark, Russia, Poland
-DL721-743						Zweibr¸cken dynasty, 1654-1718
+DL721-743						Zweibr√ºcken dynasty, 1654-1718
 DL733-743							Northern War, 1700-1721
 DL747-805						1718-1818
 DL790							Revolution and loss of Finland, 1809
@@ -1603,11 +1603,11 @@ DP91-272.4			By period
 DP91-96				Earliest to 711
 DP92-96					Pre-Roman, Roman, and Gothic periods
 DP97.3-160.8				711-1516.  Moorish domination and the Reconquest
-DP100-123					Moors in Spain.  CÛrdoba.  Kingdom of Granada
+DP100-123					Moors in Spain.  C√≥rdoba.  Kingdom of Granada
 DP124-133.7					Aragon (Catalonia)
 DP134-143.8					Castile and Leon
 
-DP145-152.8					LeÛn (Asturias)
+DP145-152.8					Le√≥n (Asturias)
 DP153-160.8					Navarre
 DP161-272.4				Modern Spain, 1479/1516-
 DP161.5-166   					1479-1516.  Fernando V and Isabel I
@@ -1766,7 +1766,7 @@ DR961-969					1501-1912.  Turkish rule
 DR969.8-978.52  					20th century
 DR996-998			Local history and description
 DR996				Provinces, regions, etc., A-Z
-DR997				TiranÎ
+DR997				Tiran√´
 DR998				Other cities, towns, etc., A-Z
 DR1202-2285		Yugoslavia
 DR1202-1218			General
@@ -2047,7 +2047,7 @@ DT543-543.9				Guinea
 DT543.42-543.45					Ethnography
 DT543.5-543.827					History
 DT543.9					Local history and description
-DT545-545.9				CÙte d'Ivoire.  Ivory Coast
+DT545-545.9				C√¥te d'Ivoire.  Ivory Coast
 DT545.42-545.45					Ethnography
 DT545.52-545.83					History
 DT545.9					Local history and description
@@ -2581,302 +2581,302 @@ CLASS G - GEOGRAPHY.  ANTHROPOLOGY.  RECREATION
 
 Subclass G
 
-G1922	Geography (General)
-G6569		Geographers
-G7070.6		Philosophy.  Relation to other topics.  Methodology
-G8099		History of geography
-G100.5108.5		Toponymy
+G1-922	Geography (General)
+G65-69		Geographers
+G70-70.6		Philosophy.  Relation to other topics.  Methodology
+G80-99		History of geography
+G100.5-108.5		Toponymy
                                       Including gazetteers, geographic names and terms
 G140		Great cities of the world
 G141		Historical geography
 G142		Aerial geography
-G149180		Travel.  Voyages and travels (General)
-G154.9155.8			Travel and state.  Tourism
-G200336		History of discoveries, explorations, and travel
-G369503		Special voyages and travels
-G521539		Adventures, shipwrecks, buried treasure, etc.
-G540550		Seafaring life, ocean travel, etc.
-G575890		Arctic and Antarctic regions
-G905910		Tropics (General)
-G912922		Northern and Southern Hemispheres
-G10003122	Atlases
-G10001000.5		Atlases of the moon, planets, etc.
-G10011046		World atlases.  Atlases of the Earth
-G10501052		Northern and Southern Hemispheres
+G149-180		Travel.  Voyages and travels (General)
+G154.9-155.8			Travel and state.  Tourism
+G200-336		History of discoveries, explorations, and travel
+G369-503		Special voyages and travels
+G521-539		Adventures, shipwrecks, buried treasure, etc.
+G540-550		Seafaring life, ocean travel, etc.
+G575-890		Arctic and Antarctic regions
+G905-910		Tropics (General)
+G912-922		Northern and Southern Hemispheres
+G1000-3122	Atlases
+G1000-1000.5		Atlases of the moon, planets, etc.
+G1001-1046		World atlases.  Atlases of the Earth
+G1050-1052		Northern and Southern Hemispheres
 G1053		Tropics.  Torrid Zone
-G10541055		Polar regions.  Frigid Zone
-G10591061		Maritime atlases (General)
-G11003102		By region or country
-G11001779			America.  Western Hemisphere
-G11051692				North America
-G11101114					Greenland
-G1115(1193)					Canada
-G12001534.24					United States
-G15351537					Caribbean area
-G15401542					Latin America (General)
-G15451549					Mexico
-G1550(1594)					Central America
-G16001692					West Indies
-G17001779				South America
-G17802799			Eastern Hemisphere.  Eurasia, Africa, etc.
-G17912196				Europe
-G21102196					Former Soviet republics.  Union of Soviet Socialist
+G1054-1055		Polar regions.  Frigid Zone
+G1059-1061		Maritime atlases (General)
+G1100-3102		By region or country
+G1100-1779			America.  Western Hemisphere
+G1105-1692				North America
+G1110-1114					Greenland
+G1115-(1193)					Canada
+G1200-1534.24					United States
+G1535-1537					Caribbean area
+G1540-1542					Latin America (General)
+G1545-1549					Mexico
+G1550-(1594)					Central America
+G1600-1692					West Indies
+G1700-1779				South America
+G1780-2799			Eastern Hemisphere.  Eurasia, Africa, etc.
+G1791-2196				Europe
+G2110-2196					Former Soviet republics.  Union of Soviet Socialist
                                              Republics (U.S.S.R.).  Russia (Empire)
-G22002444.84				Asia
-G24452739				Africa
-G27402799			Australasia
+G2200-2444.84				Asia
+G2445-2739				Africa
+G2740-2799			Australasia
 
-G28003064			Oceans (General)
-G31003102			Antarctica
+G2800-3064			Oceans (General)
+G3100-3102			Antarctica
 G3122		Atlases of imaginary, literary, and mythological 
-                                  regions, etc., AZ
-G31603171	Globes
-G31809980	Maps
-G31803182		Universe.  Solar system
-G31903191		Celestial maps
-G31953197		Moon
-G32003202		World.  Earth
-G32103221		Northern and Southern Hemispheres
-G32403241		Tropics.  Torrid Zone
-G32503251		Temperate Zone
-G32603272		Polar regions.  Frigid Zone
-G32909880		By region or country
-G32905667			America.  Western Hemisphere
-G33005184				North America
-G33803384					Greenland
-G3400(3612)					Canada
-G37004384					United States
-G43904392					Caribbean area
-G44104763					Mexico
-G48004874					Central America
-G49005184					West Indies
-G52005667				South America
-G56708904			Eastern Hemisphere.  Eurasia, Africa, etc.
-G57007342				Europe
-G70007342					Former Soviet republics.  Union of Soviet Socialist
+                                  regions, etc., A-Z
+G3160-3171	Globes
+G3180-9980	Maps
+G3180-3182		Universe.  Solar system
+G3190-3191		Celestial maps
+G3195-3197		Moon
+G3200-3202		World.  Earth
+G3210-3221		Northern and Southern Hemispheres
+G3240-3241		Tropics.  Torrid Zone
+G3250-3251		Temperate Zone
+G3260-3272		Polar regions.  Frigid Zone
+G3290-9880		By region or country
+G3290-5667			America.  Western Hemisphere
+G3300-5184				North America
+G3380-3384					Greenland
+G3400-(3612)					Canada
+G3700-4384					United States
+G4390-4392					Caribbean area
+G4410-4763					Mexico
+G4800-4874					Central America
+G4900-5184					West Indies
+G5200-5667				South America
+G5670-8904			Eastern Hemisphere.  Eurasia, Africa, etc.
+G5700-7342				Europe
+G7000-7342					Former Soviet republics.  Union of Soviet Socialist
                                              Republics (U.S.S.R.).  Russia (Empire)
-G74008198.54				Asia
-G82008904				Africa
-G89509084			Australasia
-G90959794			Oceans (General)
-G98009804			Antarctica
-G99009980		Unlocalized maps
+G7400-8198.54				Asia
+G8200-8904				Africa
+G8950-9084			Australasia
+G9095-9794			Oceans (General)
+G9800-9804			Antarctica
+G9900-9980		Unlocalized maps
 
 Subclass GA
 
-GA11776	Mathematical geography.  Cartography
-GA5187		Surveys (General)
-GA1011776		Cartography
+GA1-1776	Mathematical geography.  Cartography
+GA51-87		Surveys (General)
+GA101-1776		Cartography
 GA109			Aerial cartography
 GA109.5			Cadastral mapping
 GA109.8			Statistical mapping
-GA110115			Projection
-GA125155			Map drawing, modeling, printing, reading, etc.
-GA192197.3			Collections of maps, globes, etc.  Map libraries
-GA197.5198			Cartographers
-GA260288			Globe making.  Globes
-GA300325			World maps, general atlases, etc.
-GA3411776			Maps.  By region or country
+GA110-115			Projection
+GA125-155			Map drawing, modeling, printing, reading, etc.
+GA192-197.3			Collections of maps, globes, etc.  Map libraries
+GA197.5-198			Cartographers
+GA260-288			Globe making.  Globes
+GA300-325			World maps, general atlases, etc.
+GA341-1776			Maps.  By region or country
 
 Subclass GB
 
-GB35030	Physical geography
-GB400649		Geomorphology.  Landforms.  Terrain
+GB3-5030	Physical geography
+GB400-649		Geomorphology.  Landforms.  Terrain
 GB447			Climatic geomorphology
 GB448			Slopes
-GB450460			Coasts
-GB461468.995			Reefs
-GB471478.995			Islands
-GB500555			Mountains.  Orography
-GB561649			Other natural landforms: Floodplains, caves, 
+GB450-460			Coasts
+GB461-468.995			Reefs
+GB471-478.995			Islands
+GB500-555			Mountains.  Orography
+GB561-649			Other natural landforms: Floodplains, caves, 
                                       deserts, dunes, etc.
-GB6512998		Hydrology.  Water
-GB9802998			Ground and surface waters
-GB980992				Watersheds.  Runoff.  Drainage
-GB10011199.8				Groundwater.  Hydrogeology
-GB12011598				Rivers.  Stream measurements
-GB16012398				Lakes.  Limnology.  Ponds.  Lagoons
-GB24012598				Ice.  Glaciers.  Ice sheets.  Sea ice
-GB26012798				Snow.  Snow surveys
-GB28012998				Hydrometeorology
-GB50005030		Natural disasters
+GB651-2998		Hydrology.  Water
+GB980-2998			Ground and surface waters
+GB980-992				Watersheds.  Runoff.  Drainage
+GB1001-1199.8				Groundwater.  Hydrogeology
+GB1201-1598				Rivers.  Stream measurements
+GB1601-2398				Lakes.  Limnology.  Ponds.  Lagoons
+GB2401-2598				Ice.  Glaciers.  Ice sheets.  Sea ice
+GB2601-2798				Snow.  Snow surveys
+GB2801-2998				Hydrometeorology
+GB5000-5030		Natural disasters
 
 Subclass GC
 
-GC11581	Oceanography
+GC1-1581	Oceanography
 GC63		Oceanographic expeditions
-GC6578		Underwater exploration
-GC8387.6		Submarine topography
-GC9697.8		Estuarine oceanography
-GC100103		Seawater
-GC109149		Chemical oceanography
-GC150182		Physical oceanography
-GC151155			Density
-GC160177			Temperature
-GC177.6182			Optical oceanography
-GC190190.5		Oceanatmosphere interaction
-GC200376		Dynamics of the ocean
-GC205227			Waves
-GC228.5228.6			Ocean circulation
-GC229296.8			Currents
-GC297299			Water masses and oceanic mixing
-GC300376			Tides
-GC377399		Marine sediments
-GC401881		Oceanography.  By region
-GC10001023		Marine resources.  Applied oceanography
-GC10801581		Marine pollution.  Sea water pollution
+GC65-78		Underwater exploration
+GC83-87.6		Submarine topography
+GC96-97.8		Estuarine oceanography
+GC100-103		Seawater
+GC109-149		Chemical oceanography
+GC150-182		Physical oceanography
+GC151-155			Density
+GC160-177			Temperature
+GC177.6-182			Optical oceanography
+GC190-190.5		Ocean-atmosphere interaction
+GC200-376		Dynamics of the ocean
+GC205-227			Waves
+GC228.5-228.6			Ocean circulation
+GC229-296.8			Currents
+GC297-299			Water masses and oceanic mixing
+GC300-376			Tides
+GC377-399		Marine sediments
+GC401-881		Oceanography.  By region
+GC1000-1023		Marine resources.  Applied oceanography
+GC1080-1581		Marine pollution.  Sea water pollution
 
 Subclass GE
 
 
-GE1350	Environmental sciences
-GE7090		Environmental education
-GE170190		Environmental policy
-GE195199		Environmentalism.  Green movement
-GE300350		Environmental management
+GE1-350	Environmental sciences
+GE70-90		Environmental education
+GE170-190		Environmental policy
+GE195-199		Environmentalism.  Green movement
+GE300-350		Environmental management
 
 Subclass GF
 
-GF1900	Human ecology.  Anthropogeography
+GF1-900	Human ecology.  Anthropogeography
 GF51		Environmental influences on humans
 GF75		Human influences on the environment
-GF101127		Settlements
+GF101-127		Settlements
 GF125			Cities.  Urban geography
 GF127			Rural settlements.  Rural geography
-GF500900		By region or country
+GF500-900		By region or country
 
 Subclass GN
 
-GN1890	Anthropology
-GN49298		Physical anthropology.  Somatology
-GN5159			Anthropometry
-GN62.8265			Human variation
+GN1-890	Anthropology
+GN49-298		Physical anthropology.  Somatology
+GN51-59			Anthropometry
+GN62.8-265			Human variation
                                          Including growth, physical form, skeleton, 
                                              nervous system, skin, etc.
-GN269279			Race (General)
+GN269-279			Race (General)
 GN280.7			Man as an animal.  Simian traits versus human traits
-GN281289			Human evolution
-GN282286.7				Fossil man.  Human paleontology
-GN296296.5			Medical anthropology
-GN301674		Ethnology.  Social and cultural anthropology
-GN357367			Culture and cultural processes
+GN281-289			Human evolution
+GN282-286.7				Fossil man.  Human paleontology
+GN296-296.5			Medical anthropology
+GN301-674		Ethnology.  Social and cultural anthropology
+GN357-367			Culture and cultural processes
                                          Including social change, structuralism, diffusion, etc.
-GN378396			Collected ethnographies
-GN397397.7			Applied anthropology
-GN406517			Cultural traits, customs, and institutions
-GN406442				Technology.  Material culture
+GN378-396			Collected ethnographies
+GN397-397.7			Applied anthropology
+GN406-517			Cultural traits, customs, and institutions
+GN406-442				Technology.  Material culture
                                              Including food, shelter, fire, tools, etc.
-GN448450.8				Economic organization.  Economic anthropology
-GN451477.7				Intellectual life
+GN448-450.8				Economic organization.  Economic anthropology
+GN451-477.7				Intellectual life
                                              Including communication, recreation, philosophy,
                                                  religion, knowledge, etc.
-GN478491.7				Social organization
-GN492495.2				Political organization.  Political anthropology
-GN495.4498				Societal groups, ethnocentrism, diplomacy, warfare, etc.
-GN502517				Psychological anthropology
-GN537674			Ethnic groups and races
-GN550674				By region or country
-GN700890		Prehistoric archaeology
+GN478-491.7				Social organization
+GN492-495.2				Political organization.  Political anthropology
+GN495.4-498				Societal groups, ethnocentrism, diplomacy, warfare, etc.
+GN502-517				Psychological anthropology
+GN537-674			Ethnic groups and races
+GN550-674				By region or country
+GN700-890		Prehistoric archaeology
 
 Subclass GR
 
-GR1950	Folklore
-GR7279		Folk literature (General)
+GR1-950	Folklore
+GR72-79		Folk literature (General)
                                       Including folktales, legends
 GR81		Folk beliefs, superstitions, etc. (General)
-GR99.6390		By region or country
-GR420950		By subject
-GR420426			Costume, jewelry
-GR430488			Folklore relating to private life
+GR99.6-390		By region or country
+GR420-950		By subject
+GR420-426			Costume, jewelry
+GR430-488			Folklore relating to private life
                                          Including dreams, love, children, nursery 
                                              rhymes, etc.
-GR500615			Supernatural beings, demonology, fairies, ghosts, 
+GR500-615			Supernatural beings, demonology, fairies, ghosts, 
                                       charms, etc.
-GR620640			Cosmic phenomena, weather lore
-GR650690			Geographical topics
-GR700860			Animals, plants, and minerals
-GR865874			Transportation, travel, commerce, etc.
+GR620-640			Cosmic phenomena, weather lore
+GR650-690			Geographical topics
+GR700-860			Animals, plants, and minerals
+GR865-874			Transportation, travel, commerce, etc.
 GR880			Medicine.  Folk medicine
-GR890915			Occupations
-GR931935			Signs and symbols
-GR940941			Mythical places
+GR890-915			Occupations
+GR931-935			Signs and symbols
+GR940-941			Mythical places
 
 Subclass GT
 
-GT17070	Manners and customs (General)
-GT165476		Houses.  Dwellings
+GT1-7070	Manners and customs (General)
+GT165-476		Houses.  Dwellings
 GT485		Churches and church going
-GT495499		Human body and its parts.  Personal beauty
-GT5002370		Costume.  Dress.  Fashion
-GT24003390.5		Customs relative to private life
+GT495-499		Human body and its parts.  Personal beauty
+GT500-2370		Costume.  Dress.  Fashion
+GT2400-3390.5		Customs relative to private life
                                       Including children, marriage, eating and drinking, 
                                          funeral customs, etc.
-GT34005090		Customs relative to public and social life
+GT3400-5090		Customs relative to public and social life
                                       Including town life, court life, festivals, 
                                          holidays, ceremonies of royalty, etc.
-GT52205286		Customs relative to transportation and travel
-GT53206737		Customs relative to special classes
-GT53205690			By birth, rank, etc.
-GT57506390			By occupation
+GT5220-5286		Customs relative to transportation and travel
+GT5320-6737		Customs relative to special classes
+GT5320-5690			By birth, rank, etc.
+GT5750-6390			By occupation
 
 Subclass GV
 
-GV11860	Recreation.  Leisure
-GV181.35181.6		Recreation leadership.  Administration of recreation services
-GV182182.5		Recreational areas and facilities.  Recreation centers
-GV191.2200.66		Outdoor life.  Outdoor recreation
-GV191.68198.975			Camping
-GV198.945198.975				Farm vacations, dude ranches, etc.
-GV199199.62			Hiking.  Pedestrian tours
-GV199.8200.35			Mountaineering
-GV200.4200.56			Orienteering.  Wilderness survival
-GV200.6200.66			Caving.  Spelunking
+GV1-1860	Recreation.  Leisure
+GV181.35-181.6		Recreation leadership.  Administration of recreation services
+GV182-182.5		Recreational areas and facilities.  Recreation centers
+GV191.2-200.66		Outdoor life.  Outdoor recreation
+GV191.68-198.975			Camping
+GV198.945-198.975				Farm vacations, dude ranches, etc.
+GV199-199.62			Hiking.  Pedestrian tours
+GV199.8-200.35			Mountaineering
+GV200.4-200.56			Orienteering.  Wilderness survival
+GV200.6-200.66			Caving.  Spelunking
 
-GV201555		Physical education and training
-GV346351.5			School and college athletics.  Intramural
+GV201-555		Physical education and training
+GV346-351.5			School and college athletics.  Intramural
                                       and interscholastic athletics
-GV401433			Physical education facilities.  Sports facilities
+GV401-433			Physical education facilities.  Sports facilities
                                          Including gymnasiums, athletic fields, 
                                              playgrounds, etc.
-GV435436.7			Physical measurements.  Physical tests, etc.
-GV450451.4			Nudism.  Sunbathing
-GV460555			Gymnastics.  Gymnastic exercises
+GV435-436.7			Physical measurements.  Physical tests, etc.
+GV450-451.4			Nudism.  Sunbathing
+GV460-555			Gymnastics.  Gymnastic exercises
                                          Including calisthenics, heavy exercises, 
                                              acrobatics, etc.
-GV5571198.995		Sports
+GV557-1198.995		Sports
 GV711			Coaching
-GV712725			Athletic contests.  Sports events
-GV733734.5			Professionalism in sports.  Professional sports (General)
+GV712-725			Athletic contests.  Sports events
+GV733-734.5			Professionalism in sports.  Professional sports (General)
 GV735			Umpires.  Sports officiating
-GV743749			Athletic and sporting goods, supplies, etc.
-GV750770.27			Air sports: Airplane flying, kiteflying, bungee jumping, etc.
-GV770.3840			Water sports: Canoeing, sailing, yachting, scuba 
+GV743-749			Athletic and sporting goods, supplies, etc.
+GV750-770.27			Air sports: Airplane flying, kiteflying, bungee jumping, etc.
+GV770.3-840			Water sports: Canoeing, sailing, yachting, scuba 
                                       diving, etc.
-GV840.7857			Winter sports: Ice hockey, skiing, bobsledding,
+GV840.7-857			Winter sports: Ice hockey, skiing, bobsledding,
                                       snowmobiling, etc.
-GV8611017			Ball games: Baseball, football, golf, etc.
-GV10201034			Automobile travel.  Motoring.  Automobile racing
-GV10401060.4			Cycling.  Bicycling.  Motorcycling
-GV1060.51098			Track and field athletics
-GV11001150.9			Fighting sports: Bullfighting, boxing, fencing, etc.
-GV11511190			Shooting.  Archery
-GV11951198.995			Wrestling
-GV11991570		Games and amusements
+GV861-1017			Ball games: Baseball, football, golf, etc.
+GV1020-1034			Automobile travel.  Motoring.  Automobile racing
+GV1040-1060.4			Cycling.  Bicycling.  Motorcycling
+GV1060.5-1098			Track and field athletics
+GV1100-1150.9			Fighting sports: Bullfighting, boxing, fencing, etc.
+GV1151-1190			Shooting.  Archery
+GV1195-1198.995			Wrestling
+GV1199-1570		Games and amusements
 GV1201.5			Hobbies (General)
-GV12031220.8			Children's games and amusements
-GV1218.51220.8				Toys
-GV12211469.63			Indoor games and amusements
-GV12321299				Card games: Poker, patience, whist, etc.
-GV13011311				Gambling.  Chance and banking games
-GV13121469				Board games.  Move games
+GV1203-1220.8			Children's games and amusements
+GV1218.5-1220.8				Toys
+GV1221-1469.63			Indoor games and amusements
+GV1232-1299				Card games: Poker, patience, whist, etc.
+GV1301-1311				Gambling.  Chance and banking games
+GV1312-1469				Board games.  Move games
                                              Including chess, go, checkers, etc.
-GV1469.151469.62				Computer games.  Video games.  Fantasy games
-GV14701511			Parties.  Party games and stunts
-GV14911507				Puzzles
-GV15411561			Parlor magic and tricks
-GV15641565			Darts
-GV15801799.4		Dancing
-GV18001860		Circuses, spectacles, etc.
+GV1469.15-1469.62				Computer games.  Video games.  Fantasy games
+GV1470-1511			Parties.  Party games and stunts
+GV1491-1507				Puzzles
+GV1541-1561			Parlor magic and tricks
+GV1564-1565			Darts
+GV1580-1799.4		Dancing
+GV1800-1860		Circuses, spectacles, etc.
                                       Including rodeos, waxworks, amusement parks, etc.
 
 CLASS H - SOCIAL SCIENCES
@@ -3517,252 +3517,252 @@ CLASS J - POLITICAL SCIENCE
 
 Subclass J
                                                                   
-J(1)981	General legislative and executive papers
-J(1)(9)		Gazettes
+J(1)-981	General legislative and executive papers
+J(1)-(9)		Gazettes
                                   The Library of Congress now classes this
                                       material in K
-J8087		United States
-J8082			Presidents' messages and other executive
+J80-87		United States
+J80-82			Presidents' messages and other executive
                                       papers
-J100981		Other regions and countries
+J100-981		Other regions and countries
 
 Subclass JA
 
-JA192		Political science (General)
-JA126			Periodicals
-JA2734			Societies
+JA1-92		Political science (General)
+JA1-26			Periodicals
+JA27-34			Societies
 JA35.5			Congresses
-JA6064			Dictionaries and encyclopedias
-JA7180			Theory.  Relations to other subjects
-JA8184			History
-JA8688			Study and teaching.  Research
+JA60-64			Dictionaries and encyclopedias
+JA71-80			Theory.  Relations to other subjects
+JA81-84			History
+JA86-88			Study and teaching.  Research
 JA92			Collective biography of political scientists
 
 Subclass JC
 
-JC11605	Political theory.  The state.  Theories of the state
+JC11-605	Political theory.  The state.  Theories of the state
 JC47		Oriental state
 JC49		Islamic state
-JC5193		Ancient state
-JC109121		Medieval state
-JC131273		Modern state	
-JC177178			Thomas Paine
-JC311314		Nationalism.  Nation state
-JC319323		Political geography
+JC51-93		Ancient state
+JC109-121		Medieval state
+JC131-273		Modern state	
+JC177-178			Thomas Paine
+JC311-314		Nationalism.  Nation state
+JC319-323		Political geography
 JC327		Sovereignty
 JC328.2		Consensus.  Consent of the governed
-JC328.6.65		Violence.  Political violence
+JC328.6-.65		Violence.  Political violence
 JC329		Patriotism
-JC345347		Symbolism
-JC348497		Forms of the state
-JC571605		Purpose, functions, and relations of the state
+JC345-347		Symbolism
+JC348-497		Forms of the state
+JC571-605		Purpose, functions, and relations of the state
 
 Subclass JF
 
-JF202112	Political institutions and public administration
+JF20-2112	Political institutions and public administration
 
-JF201177		General.  Comparative government
-JF5156			General works.  History
-JF225619			Organs and functions of government
-JF251289				Executive.  Heads of state
-JF331341				Parliamentary government
-JF491619				Legislation.  Legislative process.  Lawmaking
-JF7991177	 		Political rights.  Political participation
-JF13382112		Public administration
-JF15011521			Civil service
-JF20112112			Political parties
+JF20-1177		General.  Comparative government
+JF51-56			General works.  History
+JF225-619			Organs and functions of government
+JF251-289				Executive.  Heads of state
+JF331-341				Parliamentary government
+JF491-619				Legislation.  Legislative process.  Law-making
+JF799-1177	 		Political rights.  Political participation
+JF1338-2112		Public administration
+JF1501-1521			Civil service
+JF2011-2112			Political parties
 
 Subclass JJ
 
-JJ10001019	Political institutions and public administration
+JJ1000-1019	Political institutions and public administration
                                       (North America)
 
 Subclass JK
 
-JK19993	Political institutions and public administration
+JK1-9993	Political institutions and public administration
                                   (United States)
-JK19593		United States
-JK4041685			Government.  Public administration
-JK501868				Executive branch
-JK631868					Civil Service.  Departments and agencies
-JK10121432				Congress.  Legislative branch
-JK11541276					Senate
-JK13081432					House of Representatives
-JK16061683				Capital.  Public buildings.  Government 
+JK1-9593		United States
+JK404-1685			Government.  Public administration
+JK501-868				Executive branch
+JK631-868					Civil Service.  Departments and agencies
+JK1012-1432				Congress.  Legislative branch
+JK1154-1276					Senate
+JK1308-1432					House of Representatives
+JK1606-1683				Capital.  Public buildings.  Government 
                                              property.  Government purchasing
-JK17172217			Political rights.  Practical politics
-JK17581761				Citizenship
-JK18461929				Suffrage
-JK19652217				Electoral system
-JK22552391			Political parties
-JK24039593			State government
-JK96639993		Confederate States of America
+JK1717-2217			Political rights.  Practical politics
+JK1758-1761				Citizenship
+JK1846-1929				Suffrage
+JK1965-2217				Electoral system
+JK2255-2391			Political parties
+JK2403-9593			State government
+JK9663-9993		Confederate States of America
 
 Subclass JL
 
-JL13899	Political institutions and public administration
+JL1-3899	Political institutions and public administration
                                   (Canada, Latin America, etc.)
-JL1500		Canada
-JL599.5839		West Indies.  Caribbean Area
-JL12001299		Mexico
-JL14001679		Central America
-JL18503899		South America
+JL1-500		Canada
+JL599.5-839		West Indies.  Caribbean Area
+JL1200-1299		Mexico
+JL1400-1679		Central America
+JL1850-3899		South America
 
 Subclass JN
 
-JN19689	Political institutions and public administration (Europe)
+JN1-9689	Political institutions and public administration (Europe)
 
-JN197		General
-JN1011371		Great Britain
-JN11871371			Scotland
-JN13951571.5		Ireland
-JN16012191		AustriaHungary.  Austria.  Hungary
-JN22102229		Czech Republic.  Czechoslovakia
+JN1-97		General
+JN101-1371		Great Britain
+JN1187-1371			Scotland
+JN1395-1571.5		Ireland
+JN1601-2191		Austria-Hungary.  Austria.  Hungary
+JN2210-2229		Czech Republic.  Czechoslovakia
 JN2240		Slovakia
-JN23013007		France
-JN32014944		Germany
-JN50015191		Greece
-JN52015690		Italy
-JN57015999		Netherlands
-JN61016371		Belgium
-JN65006598		Soviet Union.  Russia.  Former Soviet Republics
+JN2301-3007		France
+JN3201-4944		Germany
+JN5001-5191		Greece
+JN5201-5690		Italy
+JN5701-5999		Netherlands
+JN6101-6371		Belgium
+JN6500-6598		Soviet Union.  Russia.  Former Soviet Republics
 JN6615		Estonia
-JN66306639		Ukraine
-JN66406649		Belarus
-JN66806689		Moldova
-JN66906699		Russia (Federation)
-JN67306739		Latvia
+JN6630-6639		Ukraine
+JN6640-6649		Belarus
+JN6680-6689		Moldova
+JN6690-6699		Russia (Federation)
+JN6730-6739		Latvia
 JN6745		Lithuania
-JN67506769		Poland
-JN70117066		Scandinavia.  Northern Europe
-JN71017367		Denmark
-JN73707379		Greenland
-JN73807389		Iceland
-JN73907399		Finland
-JN74017695		Norway
-JN77217995		Sweden
-JN81018399		Spain
-JN84238661		Portugal
-JN87019599		Switzerland
-JN96009689		Balkan States
+JN6750-6769		Poland
+JN7011-7066		Scandinavia.  Northern Europe
+JN7101-7367		Denmark
+JN7370-7379		Greenland
+JN7380-7389		Iceland
+JN7390-7399		Finland
+JN7401-7695		Norway
+JN7721-7995		Sweden
+JN8101-8399		Spain
+JN8423-8661		Portugal
+JN8701-9599		Switzerland
+JN9600-9689		Balkan States
 
 Subclass JQ
 
-JQ216651	Political institutions and public administration (Asia, 
+JQ21-6651	Political institutions and public administration (Asia, 
                                   Africa, Australia, Pacific Area, etc.)
-JQ211852		Asia
-JQ200620			India
-JQ10701199			Central Asia
+JQ21-1852		Asia
+JQ200-620			India
+JQ1070-1199			Central Asia
                                          Including former republics of the Soviet
                                              Union
-JQ14991749			East Asia
+JQ1499-1749			East Asia
                                          Including China, Japan, Korea
-JQ17581852			Middle East
+JQ1758-1852			Middle East
                                          Including Turkey, Iran, Israel, Arabian
                                              Peninsula
 JQ1850				Arab countries
 JQ1852				Islamic countries
-JQ18703981		Africa
+JQ1870-3981		Africa
 
-JQ3981.53986.7		Atlantic Ocean islands
-JQ39956651		Australia.  New Zealand.  Pacific Ocean islands
+JQ3981.5-3986.7		Atlantic Ocean islands
+JQ3995-6651		Australia.  New Zealand.  Pacific Ocean islands
 
 Subclass JS
 
-JS398500	Local government.  Municipal government
-JS5568		History		
-JS141163		Executive branch.  Mayor
+JS39-8500	Local government.  Municipal government
+JS55-68		History		
+JS141-163		Executive branch.  Mayor
 JS171		Legislative branch
-JS221227		Elections.  Local elections.  Municipal elections
-JS241271		Local government other than municipal
-JS3001583		United States
-JS17011800		Canada
-JS18402058.9		West Indies.  Caribbean Area
-JS21012143		Mexico
-JS21452219		Central America
-JS23002778		South America
-JS30006949.89		Europe
-JS69507520		Asia
+JS221-227		Elections.  Local elections.  Municipal elections
+JS241-271		Local government other than municipal
+JS300-1583		United States
+JS1701-1800		Canada
+JS1840-2058.9		West Indies.  Caribbean Area
+JS2101-2143		Mexico
+JS2145-2219		Central America
+JS2300-2778		South America
+JS3000-6949.89		Europe
+JS6950-7520		Asia
 JS7510			Arab countries
 JS7520			Islamic countries
-JS75257819.9		Africa
-JS78207827.9		Atlantic Ocean islands
-JS79007906.9		Indian Ocean islands
-JS80018490.9		Australia.  New Zealand.  Pacific Ocean islands
+JS7525-7819.9		Africa
+JS7820-7827.9		Atlantic Ocean islands
+JS7900-7906.9		Indian Ocean islands
+JS8001-8490.9		Australia.  New Zealand.  Pacific Ocean islands
 
 Subclass JV
 
-JV19480	Colonies and colonization.  Emigration and
+JV1-9480	Colonies and colonization.  Emigration and
                                   immigration.  International migration
-JV15397		Colonies and colonization
-JV19			Periodicals.  Serials
-JV1019			Societies
-JV61152			History
-JV412461			Administration
-JV5005397			Colonizing nations
-JV60019480		Emigration and immigration.  International
+JV1-5397		Colonies and colonization
+JV1-9			Periodicals.  Serials
+JV10-19			Societies
+JV61-152			History
+JV412-461			Administration
+JV500-5397			Colonizing nations
+JV6001-9480		Emigration and immigration.  International
                                       migration
-JV60016006			Periodicals.  Serials
-JV60216033			History
-JV60916124			Emigration
-JV62016347			Immigration
-JV64037127			United States
-JV72007539			Canada, Latin America, etc.
-JV75908339.7			Europe
-JV84908758			Asia
+JV6001-6006			Periodicals.  Serials
+JV6021-6033			History
+JV6091-6124			Emigration
+JV6201-6347			Immigration
+JV6403-7127			United States
+JV7200-7539			Canada, Latin America, etc.
+JV7590-8339.7			Europe
+JV8490-8758			Asia
 JV8760			Arab countries
 JV8762			Islamic countries
-JV87909024.5			Africa
-JV90299036			Atlantic Ocean islands
-JV90409047			Indian Ocean islands
+JV8790-9024.5			Africa
+JV9029-9036			Atlantic Ocean islands
+JV9040-9047			Indian Ocean islands
 
-JV91009269			Australia.  New Zealand
-JV92909470			Pacific Ocean islands
+JV9100-9269			Australia.  New Zealand
+JV9290-9470			Pacific Ocean islands
 
 Subclass JX (obsolete)
 
-JX(1)(6650)	International law, see JZ and KZ
-JX(63)(191)		Collections.  Documents.  Cases
-JX(220)(1195)		Collections, cases, etc.  By country
-JX(1261)(1283)		Codification of international law
-JX(1305)(1598)		Foreign relations
-JX(1621)(1896)		Diplomacy
-JX(1901)(1995)		International arbitration, organization, etc.
-JX(2001)(6650)		International law
+JX(1)-(6650)	International law, see JZ and KZ
+JX(63)-(191)		Collections.  Documents.  Cases
+JX(220)-(1195)		Collections, cases, etc.  By country
+JX(1261)-(1283)		Codification of international law
+JX(1305)-(1598)		Foreign relations
+JX(1621)-(1896)		Diplomacy
+JX(1901)-(1995)		International arbitration, organization, etc.
+JX(2001)-(6650)		International law
 
 Subclass JZ
 
-JZ56530	International relations
-JZ5.518		Periodicals
-JZ2438		Societies, associations, academies, institutes, etc., 
+JZ5-6530	International relations
+JZ5.5-18		Periodicals
+JZ24-38		Societies, associations, academies, institutes, etc., 
                                       for the study of international relations   
-JZ631153		Sources
-JZ2211153			By region or country
-JZ12491254		Relation to other disciplines and topics
-JZ13052060		Scope of international relations. Political theory. 
+JZ63-1153		Sources
+JZ221-1153			By region or country
+JZ1249-1254		Relation to other disciplines and topics
+JZ1305-2060		Scope of international relations. Political theory. 
                                       Diplomacy   
-JZ1329.51395			By period
-JZ14001454			Diplomatic and consular service
-JZ14642060			Scope of international relations with regard to 
+JZ1329.5-1395			By period
+JZ1400-1454			Diplomatic and consular service
+JZ1464-2060			Scope of international relations with regard to 
                                          countries, territories, regions, etc.
-JZ36743875		State territory and its parts
+JZ3674-3875		State territory and its parts
 JZ3685			Boundaries
-JZ36863875			International waters
-JZ48355490		International organizations and associations
-JZ48414848			Political nongovernmental organizations.
+JZ3686-3875			International waters
+JZ4835-5490		International organizations and associations
+JZ4841-4848			Political non-governmental organizations.
                                          NGOs
-JZ48505490			Intergovernmental organizations.  IGOs
-JZ48534934				League of Nations
-JZ49355160				United Nations
-JZ5511.26300		Promotion of peace.  Peaceful change
-JZ55145526			Societies, associations, academies, institutes, etc., 
+JZ4850-5490			Intergovernmental organizations.  IGOs
+JZ4853-4934				League of Nations
+JZ4935-5160				United Nations
+JZ5511.2-6300		Promotion of peace.  Peaceful change
+JZ5514-5526			Societies, associations, academies, institutes, etc., 
                                          for peace promotion, research and education   
-JZ55275532			Congresses and conferences
-JZ55876009			International security.  Disarmament.  Global survival
-JZ60106060			Pacific settlement of international disputes
-JZ63606377		Nonmilitary coercion
-JZ63856405		The armed conflict.  War and order
-JZ64226422.5		Neutrality.  Nonparticipation in wars.  Norms of 
+JZ5527-5532			Congresses and conferences
+JZ5587-6009			International security.  Disarmament.  Global survival
+JZ6010-6060			Pacific settlement of international disputes
+JZ6360-6377		Non-military coercion
+JZ6385-6405		The armed conflict.  War and order
+JZ6422-6422.5		Neutrality.  Non-participation in wars.  Norms of 
                                       neutrality
 JZ6530		Humanitarian aspects of war
 
@@ -3770,180 +3770,180 @@ CLASS K - LAW
 
 Subclass K
 
-K17720           	Law in general. Comparative and uniform law. Jurisprudence  
-K136.5             		Periodicals
-K3744              		Bibliography
+K1-7720           	Law in general. Comparative and uniform law. Jurisprudence  
+K1-36.5             		Periodicals
+K37-44              		Bibliography
 K46                 		Monographic series
 K48                 		Encyclopedias
-K5054              		Dictionaries.  Words and phrases
+K50-54              		Dictionaries.  Words and phrases
 K58                 		Maxims.  Quotations
 K(64)               		Yearbooks
-K6870              		Directories
-K8589              		Legal research
+K68-70              		Directories
+K85-89              		Legal research
 K94                 		Legal composition and draftsmanship
-K100103            		Legal education
-K109110            		Law societies.  International bar associations
-K115130            		The legal profession
+K100-103            		Legal education
+K109-110            		Law societies.  International bar associations
+K115-130            		The legal profession
 K133                		Legal aid.  Legal assistance to the poor
-K140165            		History of law
+K140-165            		History of law
 K170                		Biography
 K(175)              		Congresses
-K(176)(177)        		Collected works (nonserial)
+K(176)-(177)        		Collected works (nonserial)
 K(179)              		Addresses, essays, lectures
-K181184.7          		Miscellany
-K190195            		Ethnological jurisprudence.  Primitive law
-K201487            		Jurisprudence.  Philosophy and theory of law
+K181-184.7          		Miscellany
+K190-195            		Ethnological jurisprudence.  Primitive law
+K201-487            		Jurisprudence.  Philosophy and theory of law
 K202                   			Periodicals
-K212213               			Methodology
-K215218               			History
-K236                   			Universality and nonuniversality of law
-K237264               			The concept of law
-K270274               			Acts and events
-K280286               			Sources of law
-K288296               			Interpretation and construction of law.  Lacunae in law
-K300304               			Classification of law.  Typology
-K321474               			Schools of legal theory
-K325328                 				Historical jurisprudence
-K330344                 				Positivism
-K366380                 				Sociology of law.  Sociological jurisprudence
-K400474                 				Natural law
-K486487               			Relation of law to other topics
-K(520)5582         		Comparative law.  International uniform law
-K524525               			Treaties and other international agreements
-K540546               			Trials
-K578579               			Concepts applying to several branches of law
-K583(591)             			Legal systems compared
-K592597               			Regional divisions.  Interregional comparative law
-K600615               			Private law
+K212-213               			Methodology
+K215-218               			History
+K236                   			Universality and non-universality of law
+K237-264               			The concept of law
+K270-274               			Acts and events
+K280-286               			Sources of law
+K288-296               			Interpretation and construction of law.  Lacunae in law
+K300-304               			Classification of law.  Typology
+K321-474               			Schools of legal theory
+K325-328                 				Historical jurisprudence
+K330-344                 				Positivism
+K366-380                 				Sociology of law.  Sociological jurisprudence
+K400-474                 				Natural law
+K486-487               			Relation of law to other topics
+K(520)-5582         		Comparative law.  International uniform law
+K524-525               			Treaties and other international agreements
+K540-546               			Trials
+K578-579               			Concepts applying to several branches of law
+K583-(591)             			Legal systems compared
+K592-597               			Regional divisions.  Interregional comparative law
+K600-615               			Private law
 
-K605615                 				Unification
-K623968               			Civil law
-K625709                 				Persons
-K670709                    				Domestic relations.  Family law
-K720792                 				Property
-K795798                 				Trusts and trustees
-K805821                 				Succession upon death
-K830968                 				Obligations
-K840917                    					Contracts
+K605-615                 				Unification
+K623-968               			Civil law
+K625-709                 				Persons
+K670-709                    				Domestic relations.  Family law
+K720-792                 				Property
+K795-798                 				Trusts and trustees
+K805-821                 				Succession upon death
+K830-968                 				Obligations
+K840-917                    					Contracts
 K920                        					Restitution.  Quasi contracts.  Unjust enrichment
-K923968                    					Torts
+K923-968                    					Torts
 K970                   			Compensation to victims of crime.  Reparation
-K10001395             			Commercial law
-K10101014               				The merchant.  Business enterprises
-K10211022               				Commercial agency
-K10241132               				Commercial contracts
-K10261045                  					Sale of goods
-K10541065.5                					Negotiable instruments
-K10661089                  					Banking
-K10941096                  					Loan of money
-K11001109                  					Secured transactions
-K11121116                  					Investments
-K11301132                  					Carriage of goods and passengers.  Carriers
-K11501231               				Maritime law
-K11951223                  					Maritime social legislation
-K12261231                  					Marine insurance
-K12411287               				Insurance
-K13011366               				Business associations
-K13701395               				Insolvency and bankruptcy.  Creditors' rights
-K14011578             			Intellectual property
-K14111485               				Copyright
-K15001578               				Industrial property
-K17001973             			Social legislation
-K17011841               				Labor law
-K18611929               				Social insurance
-K19601973               				Public welfare.  Public assistance
-K21002385             			Courts.  Procedure
-K21102155               				Court organization and procedure
-K22012385               				Civil procedure
+K1000-1395             			Commercial law
+K1010-1014               				The merchant.  Business enterprises
+K1021-1022               				Commercial agency
+K1024-1132               				Commercial contracts
+K1026-1045                  					Sale of goods
+K1054-1065.5                					Negotiable instruments
+K1066-1089                  					Banking
+K1094-1096                  					Loan of money
+K1100-1109                  					Secured transactions
+K1112-1116                  					Investments
+K1130-1132                  					Carriage of goods and passengers.  Carriers
+K1150-1231               				Maritime law
+K1195-1223                  					Maritime social legislation
+K1226-1231                  					Marine insurance
+K1241-1287               				Insurance
+K1301-1366               				Business associations
+K1370-1395               				Insolvency and bankruptcy.  Creditors' rights
+K1401-1578             			Intellectual property
+K1411-1485               				Copyright
+K1500-1578               				Industrial property
+K1700-1973             			Social legislation
+K1701-1841               				Labor law
+K1861-1929               				Social insurance
+K1960-1973               				Public welfare.  Public assistance
+K2100-2385             			Courts.  Procedure
+K2110-2155               				Court organization and procedure
+K2201-2385               				Civil procedure
 K2390                  			Negotiated settlement.  Compromise
-K24002405             			Arbitration and award
+K2400-2405             			Arbitration and award
 K3150                  			Public law
-K31543370             			Constitutional law
+K3154-3370             			Constitutional law
 K3161                    				Constitutional history
 K3169                    				The state
-K31713179               				Constitutional principles
-K31843188               				Form and structure of government
+K3171-3179               				Constitutional principles
+K3184-3188               				Form and structure of government
 K3195                    				National territory
 K3201                    				Foreign relations administration
 K3220                    				Public policy
-K32243278               				Individual and state
+K3224-3278               				Individual and state
 
-K32803282               				Church and state
-K32893367               				Organs of government
-K32903304                  					The people.  Election law
-K33103329                  					The legislature
-K33323363                  					Heads of state and the central government
+K3280-3282               				Church and state
+K3289-3367               				Organs of government
+K3290-3304                  					The people.  Election law
+K3310-3329                  					The legislature
+K3332-3363                  					Heads of state and the central government
 K3367                       					The judiciary
 K3370                    				Constitutional courts and procedure
 K3375                  			Colonial law
-K34003431             			Administrative law
-K34023417               				The administrative process
-K34203431               				Administrative organization
-K34403460             			Civil service.  Government officials and employees
-K34763560             			Public property.  Public restraint on private property
-K35663578             			Public health
-K3581(3598)           			Environmental law
-K36013611             			Medical legislation
-K36153622             			Veterinary laws.  Veterinary medicine and hygiene.  Prevention
+K3400-3431             			Administrative law
+K3402-3417               				The administrative process
+K3420-3431               				Administrative organization
+K3440-3460             			Civil service.  Government officials and employees
+K3476-3560             			Public property.  Public restraint on private property
+K3566-3578             			Public health
+K3581-(3598)           			Environmental law
+K3601-3611             			Medical legislation
+K3615-3622             			Veterinary laws.  Veterinary medicine and hygiene.  Prevention
                                       of cruelty to animals
-K36253649             			Food.  Drugs.  Cosmetics
-K36513654             			Alcohol.  Alcoholic beverages
-K36613674             			Public safety
-K37003705             			Control of social activities
-K37403762             			Education
-K37703795             			Science and arts.  Research
-K38203836             			Economic constitution, policy, planning, and development
-K38404375             			Regulation of industry, trade, and commerce.  Occupational law
-K38423862               				Trade regulations.  Control of trade practices
-K38703918               				Primary production.  Extractive industries
-K39213925               				Manufacturing industries 
-K39263935               				Food processing industries
-K39413974               				Trade and commerce
-K39783992               				Public utilities
-K40114343               				Transportation and communication
-K43604375               				Professions and occupations
-K44304675             			Public finance
-K44534640               				National revenue
-K46504675               				State and local finance
-K47004705             			Government measures in time of war, national emergency, or
+K3625-3649             			Food.  Drugs.  Cosmetics
+K3651-3654             			Alcohol.  Alcoholic beverages
+K3661-3674             			Public safety
+K3700-3705             			Control of social activities
+K3740-3762             			Education
+K3770-3795             			Science and arts.  Research
+K3820-3836             			Economic constitution, policy, planning, and development
+K3840-4375             			Regulation of industry, trade, and commerce.  Occupational law
+K3842-3862               				Trade regulations.  Control of trade practices
+K3870-3918               				Primary production.  Extractive industries
+K3921-3925               				Manufacturing industries 
+K3926-3935               				Food processing industries
+K3941-3974               				Trade and commerce
+K3978-3992               				Public utilities
+K4011-4343               				Transportation and communication
+K4360-4375               				Professions and occupations
+K4430-4675             			Public finance
+K4453-4640               				National revenue
+K4650-4675               				State and local finance
+K4700-4705             			Government measures in time of war, national emergency, or
                                       economic crisis
-K47204780             			National defense.  Military law
-K47254734               				The military establishment.  Armed forces
-K47404760               				Military criminal law and procedure
-K50005582             			Criminal law and procedure
-K5015.45350             				Criminal law
-K54015570               				Criminal procedure
-K55755582               				Juvenile criminal law and procedure
-K70007720          		Private international law.  Conflict of laws
-K70517054             			International unification, approximation, and harmonization
-K70607081             			Choice of law
+K4720-4780             			National defense.  Military law
+K4725-4734               				The military establishment.  Armed forces
+K4740-4760               				Military criminal law and procedure
+K5000-5582             			Criminal law and procedure
+K5015.4-5350             				Criminal law
+K5401-5570               				Criminal procedure
+K5575-5582               				Juvenile criminal law and procedure
+K7000-7720          		Private international law.  Conflict of laws
+K7051-7054             			International unification, approximation, and harmonization
+K7060-7081             			Choice of law
 K7085                  			Retroactive law.  Intertemporal law
 K7090                  			Juristic acts
 
-K71207197             			Persons
-K71257140               				Natural persons
-K71457148               				Juristic persons.  Associations
-K71557197               				Domestic relations.  Family law
-K71577179                  					Marriage.  Husband and wife
-K71817197                  					Parent and child.  Guardian and ward
-K72007218             			Property
+K7120-7197             			Persons
+K7125-7140               				Natural persons
+K7145-7148               				Juristic persons.  Associations
+K7155-7197               				Domestic relations.  Family law
+K7157-7179                  					Marriage.  Husband and wife
+K7181-7197                  					Parent and child.  Guardian and ward
+K7200-7218             			Property
 K7222                  			Trust and trustees
-K72307245             			Succession upon death
-K72607338             			Obligations
-K72657305               				Contracts
+K7230-7245             			Succession upon death
+K7260-7338             			Obligations
+K7265-7305               				Contracts
 K7310                    				Restitution.  Quasi contracts.  Unjust enrichment
-K73157338               				Torts
-K73407512             			Commercial law
-K73507444               				Commercial contracts
-K74497460               				Maritime law
+K7315-7338               				Torts
+K7340-7512             			Commercial law
+K7350-7444               				Commercial contracts
+K7449-7460               				Maritime law
 K7470                    				Insurance
-K74857495               				Business associations.  Business corporations
-K75107512               				Insolvency and bankruptcy.  Creditors' rights
-K75507582             			Intellectual property
-K75557557               				Copyright
-K75707582               				Industrial property
-K75857595             			Social legislation
-K76117688             			Civil procedure.  International civil procedure
+K7485-7495               				Business associations.  Business corporations
+K7510-7512               				Insolvency and bankruptcy.  Creditors' rights
+K7550-7582             			Intellectual property
+K7555-7557               				Copyright
+K7570-7582               				Industrial property
+K7585-7595             			Social legislation
+K7611-7688             			Civil procedure.  International civil procedure
 K7690                  			Arbitration and award
 K7720                  			Recognition of foreign administrative acts
 
@@ -3972,97 +3972,97 @@ KB400			Ritual law.  Religious observances and rituals
 
 KB410 			Law reform and policies. Criticism
 KB479 			Private law (General)
-KB480482 			Private international law. Conflict of laws
+KB480-482 			Private international law. Conflict of laws
 KB491 			Civil law (General)
-KB524530 			Persons
-KB531619 			Domestic relations. Family law
-KB622628.5 			Guardianship. Guardian and ward
-KB632636.2 			Inheritance and succession
+KB524-530 			Persons
+KB531-619 			Domestic relations. Family law
+KB622-628.5 			Guardianship. Guardian and ward
+KB632-636.2 			Inheritance and succession
 KB636.3 			Gifts. Charitable gifts. Donations
-KB640726 			Property. Res in commercio
-KB810962.8 			Obligations. Contracts and transactions
-KB12701278 			Labor laws and legislation 
-KB14681550 			Social laws and legislation. Welfare. Charities
-KB15721690 			Courts and procedure 
-KB20002035 			Public law. The State
-KB21012862 			Constitutions and religion. Constitutional and
+KB640-726 			Property. Res in commercio
+KB810-962.8 			Obligations. Contracts and transactions
+KB1270-1278 			Labor laws and legislation 
+KB1468-1550 			Social laws and legislation. Welfare. Charities
+KB1572-1690 			Courts and procedure 
+KB2000-2035 			Public law. The State
+KB2101-2862 			Constitutions and religion. Constitutional and
                                       administrative law 
 KB2870 			Civil service. Employees of state, communal agencies,
                                       and religious corporations 
-KB30003034 			Police and public safety 
-KB3040.53056 			Public property. Government property 
-KB30753096.5 			Public health 
-KB30983121.7 			Medical legislation 
-KB3122 			Veterinary medicine and hygiene. Veterinary public health  KB31233123.5 			Animal protection. Animal welfare. Animal rights
-KB31243125 			Birth control. Family planning 
-KB31273135 			Environmental law 
-KB31373183 			Cultural affairs 
-KB31903429 			Economic law
+KB3000-3034 			Police and public safety 
+KB3040.5-3056 			Public property. Government property 
+KB3075-3096.5 			Public health 
+KB3098-3121.7 			Medical legislation 
+KB3122 			Veterinary medicine and hygiene. Veterinary public health  KB3123-3123.5 			Animal protection. Animal welfare. Animal rights
+KB3124-3125 			Birth control. Family planning 
+KB3127-3135 			Environmental law 
+KB3137-3183 			Cultural affairs 
+KB3190-3429 			Economic law
 KB3440-3500.7 			Transportation and communication
-KB35153522 			Professions. Intelligentsia 
-KB35263694			Public finance 
-KB37093726 			Government measures in time of war, national emergency,
+KB3515-3522 			Professions. Intelligentsia 
+KB3526-3694			Public finance 
+KB3709-3726 			Government measures in time of war, national emergency,
                                       or economic crisis 
-KB37353780 			Military law 
-KB37904855 			Criminal law and procedure
+KB3735-3780 			Military law 
+KB3790-4855 			Criminal law and procedure
 
 Subclass KBM
 
 KBM1-4855	Jewish law.  Halakah
                                Halakah
-KBM523.6			Even ha(ezer law (General)
+KBM523.6			Even ha-(ezer law (General)
 KBM523.72			oshen mishpa law (General)
-KBM523.84855 		Mishpat Ivri 
+KBM523.8-4855 		Mishpat Ivri 
 KBM523.8 			Bibliography 
 KBM523.82 			Monographic series
 KBM523.9 			Legal education. Study and teaching
 KBM524 			General works
 
-KBM524.12524.26 			The concept of Jewish law
+KBM524.12-524.26 			The concept of Jewish law
 KBM524.3 			Sources of Jewish law (Mishpat Ivri) 
-KBM524.32.34 			Methodology of law development
+KBM524.32-.34 			Methodology of law development
 KBM524.36 			Influence of other legal systems on Jewish law
 KBM524.38 			Law reform and policies. Criticism 
-KBM524.4.AZ 			Concepts applying to several branches of the law, AZ
+KBM524.4.A-Z 			Concepts applying to several branches of the law, A-Z
 KBM524.42 			Private law 
 KBM524.43 			Conflict of laws. Plurality of laws conflict 
 KBM524.5 			Assistance in emergencies 
-KBM524.6530 			Persons 
-KBM531619 			Domestic relations. Family law 
-KBM622628.5 			Guardian and ward. Apotropos
-KBM632636.2 			Inheritance and succession
+KBM524.6-530 			Persons 
+KBM531-619 			Domestic relations. Family law 
+KBM622-628.5 			Guardian and ward. Apotropos
+KBM632-636.2 			Inheritance and succession
 KBM636.3 			Gifts. Charitable gifts. Donations
-KBM6391424 			Dinei mamonot 
-KBM14681547 			Social laws and legislation 
-KBM15721942 			Courts and procedure 
-KBM20002024 			Public law. The state and the Jewish community. Kehillah
-KBM20702614 			Constitutional law. Constitutional principles of the Jewish
+KBM639-1424 			Dinei mamonot 
+KBM1468-1547 			Social laws and legislation 
+KBM1572-1942 			Courts and procedure 
+KBM2000-2024 			Public law. The state and the Jewish community. Kehillah
+KBM2070-2614 			Constitutional law. Constitutional principles of the Jewish
                                       community
-KBM27112840 			Administrative law and process of communal agencies
+KBM2711-2840 			Administrative law and process of communal agencies
 KBM2970 			Civil service. Employees of communal agencies
-KBM30003036.5 			Police and public safety 
-KBM3040.53073 			Public property. Communal property. Restraints on private
+KBM3000-3036.5 			Police and public safety 
+KBM3040.5-3073 			Public property. Communal property. Restraints on private
                                       property 
-KBM30753097 			Public health 
-KBM30983122 			Medical legislation 
-KBM31243125 			Birth control. Family planning 
-KBM31273134 			Environmental law 
-KBM31373183			Cultural affairs 
-KBM31903436 			Economic law
-KBM34403504.5 			Transportation and communication 
-KBM35153519 			Professions 
-KBM35263695 			Public finance 
-KBM37093729 			Measures in time of war, national emergency, or economic
+KBM3075-3097 			Public health 
+KBM3098-3122 			Medical legislation 
+KBM3124-3125 			Birth control. Family planning 
+KBM3127-3134 			Environmental law 
+KBM3137-3183			Cultural affairs 
+KBM3190-3436 			Economic law
+KBM3440-3504.5 			Transportation and communication 
+KBM3515-3519 			Professions 
+KBM3526-3695 			Public finance 
+KBM3709-3729 			Measures in time of war, national emergency, or economic
                                       crisis 
-KBM37383785 			Community defense. Military law 
-KBM37904855			Criminal law and procedure
+KBM3738-3785 			Community defense. Military law 
+KBM3790-4855			Criminal law and procedure
 
 Subclass KBP
 
 KBP1-4860	Islamic law.  Shar((ah.  Fiqh
-KBP2.28 		Bibliography
+KBP2.2-8 		Bibliography
 KBP9.5 		Monographic series 
-KBP1014.5 		Societies. Associations 
+KBP10-14.5 		Societies. Associations 
 KBP15 		Congresses. Conferences 
 KBP18 		Academies. Institutes 
 KBP40 		Encyclopedias. Dictionaries
@@ -4070,96 +4070,96 @@ KBP40 		Encyclopedias. Dictionaries
 KBP40.2 		Maxims. Quotations 
 KBP40.5 		Directories 
 KBP41 		Legal research 
-KBP4243 		Legal education. Study and teaching
-KBP5069		History, development and application of Islamic law 
+KBP42-43 		Legal education. Study and teaching
+KBP50-69		History, development and application of Islamic law 
 KBP70-75.4		Biography
-KBP100136.8		Sources 
+KBP100-136.8		Sources 
 KBP144 		General works
-KBP173.25.6 		Islamic law and other disciplines or subjects
-KBP174190.5 		Observances and practice of Islam
-KBP250420		Schools of thought. Islamic legal schools. Madh(hib
-KBP425466.3 		U(l alfiqh. Jurisprudence and theory of law. Science of
+KBP173.25-.6 		Islamic law and other disciplines or subjects
+KBP174-190.5 		Observances and practice of Islam
+KBP250-420		Schools of thought. Islamic legal schools. Madh(hib
+KBP425-466.3 		U(l al-fiqh. Jurisprudence and theory of law. Science of
                                   legal reasoning 
 KBP469 		Influence of other legal systems on Islamic law
 KBP470 		Law reform. Criticism. Tan(m
-KBP480485 		Conflict of laws. Tan(zuí alqaw(n(n
-KBP4904860 		Fur(( alfiqh. Substantive law. Branches of law
-KBP490.2.95 			General works. Treatises
-KBP491497.95			Particular genres 
-KBP500509.8 			General concepts 
-KBP524638 			Aw(l shakh(yah 
-KBP6391154 			Mu((mal(t 
-KBP11551194 			Intellectual and industrial property 
-KBP12341259 			Unfair competition 
-KBP12701467 			Labor laws and legislation 
-KBP14681569 			Social laws and legislation 
-KBP15721942 			Courts and procedure 
-KBP20002035 			Public law. The state and Islam
-KBP21012612 			Constitution of the state. Constitutional law
-KBP27302968 			Government and administration. Siy(sah. Administrative
+KBP480-485 		Conflict of laws. Tan(zu‚Äô al-qaw(n(n
+KBP490-4860 		Fur(( al-fiqh. Substantive law. Branches of law
+KBP490.2-.95 			General works. Treatises
+KBP491-497.95			Particular genres 
+KBP500-509.8 			General concepts 
+KBP524-638 			Aw(l shakh(yah 
+KBP639-1154 			Mu((mal(t 
+KBP1155-1194 			Intellectual and industrial property 
+KBP1234-1259 			Unfair competition 
+KBP1270-1467 			Labor laws and legislation 
+KBP1468-1569 			Social laws and legislation 
+KBP1572-1942 			Courts and procedure 
+KBP2000-2035 			Public law. The state and Islam
+KBP2101-2612 			Constitution of the state. Constitutional law
+KBP2730-2968 			Government and administration. Siy(sah. Administrative
                                       process 
 KBP2970 			Civil service. Employees of communal agencies
-KBP30003037 			Police and public safety 
-KBP3040.53072 			Public property. Government property 
-KBP30753096.5 			Public health 
-KBP30983121.5 			Medical legislation 
+KBP3000-3037 			Police and public safety 
+KBP3040.5-3072 			Public property. Government property 
+KBP3075-3096.5 			Public health 
+KBP3098-3121.5 			Medical legislation 
 KBP3122 			Veterinary medicine and hygiene. Veterinary public health
-KBP31233123.5 			Animal protection. Animal welfare. Animal rights
-KBP31243125 			Birth control. Family planning 
-KBP31273135 			Environmental law 
-KBP31373183.3 			Cultural affairs 
-KBP31903437			Economic law
-KBP34403512 			Transportation and communication 
-KBP35153521 			Professions. Intelligentsia 
-KBP35263705 			Public finance 
-KBP37093727 			Government measures in time of war, national emergency,
+KBP3123-3123.5 			Animal protection. Animal welfare. Animal rights
+KBP3124-3125 			Birth control. Family planning 
+KBP3127-3135 			Environmental law 
+KBP3137-3183.3 			Cultural affairs 
+KBP3190-3437			Economic law
+KBP3440-3512 			Transportation and communication 
+KBP3515-3521 			Professions. Intelligentsia 
+KBP3526-3705 			Public finance 
+KBP3709-3727 			Government measures in time of war, national emergency,
                                       or economic crisis 
-KBP37383785 			Military law 
+KBP3738-3785 			Military law 
 
-KBP37904860 			Criminal law and procedure 
+KBP3790-4860 			Criminal law and procedure 
 
 Subclass KBR
 
-KBR24090	History of canon law
-KBR219		Bibliography
+KBR2-4090	History of canon law
+KBR2-19		Bibliography
 KBR21		Annuals. Annuaires. Yearbooks
 KBR22		Monographic series
-KBR2741.7		Official acts of the Holy See
+KBR27-41.7		Official acts of the Holy See
 KBR42-54.5		Decisions of ecclesiastical tribunals and courts, and related
                                   materials
 KBR56		Encyclopedias. Law dictionaries. Terms and phrases.
                                   Vocabularia
 KBR64		Directories
-KBR7483		Auxiliary sciences
-KBR100.AZ		Proverbia. Legal maxims. Brocardica juris. Regulae juris
-KBR105.AZ		Formularies. Clauses and forms. Formularia
+KBR74-83		Auxiliary sciences
+KBR100.A-Z		Proverbia. Legal maxims. Brocardica juris. Regulae juris
+KBR105.A-Z		Formularies. Clauses and forms. Formularia
 KBR122-124		Collective biography of canonists or jurists
-KBR127129.5		Trials
-KBR130132		Legal research. Legal bibliography. Methods of bibliographic
+KBR127-129.5		Trials
+KBR130-132		Legal research. Legal bibliography. Methods of bibliographic
                                   research
-KBR133134		Legal education. Study and teaching
-KBR136148		Societies. Associations. Academies, etc.
+KBR133-134		Legal education. Study and teaching
+KBR136-148		Societies. Associations. Academies, etc.
 KBR150		Conferences. Symposia
 KBR160		General works
 KBR190-2154.5		Sources
-KBR21552157		Canon law and other disciplines or subjects
-KBR21602204.5		Canonical jurisprudence. Canonical science
-KBR22052206.3		Influence of other legal systems on Canon law
+KBR2155-2157		Canon law and other disciplines or subjects
+KBR2160-2204.5		Canonical jurisprudence. Canonical science
+KBR2205-2206.3		Influence of other legal systems on Canon law
 KBR2207		Law reform and policies. Criticism
-KBR2208.AZ		General concepts and principles, AZ
-KBR22242295		Ius ecclesiasticum privatum
+KBR2208.A-Z		General concepts and principles, A-Z
+KBR2224-2295		Ius ecclesiasticum privatum
 KBR2310-3026		Constitution of the Church
-KBR30403070		The teaching office of the church. Magisterium. De ecclesiae
+KBR3040-3070		The teaching office of the church. Magisterium. De ecclesiae
                                   munere docendi
 KBR3077-3165		Sacraments. Administration of sacraments. De sacramentis
                                   et administratione
-KBR31803182		Sacramentals. Sacramentalia
-KBR31843256		Other acts of divine worship. De ceteris actibus Cultus Divini 
-KBR32643280		Social work of the Church. Public welfare. Caritas
-KBR33203460		Church property. Church economics and finance.
+KBR3180-3182		Sacramentals. Sacramentalia
+KBR3184-3256		Other acts of divine worship. De ceteris actibus Cultus Divini 
+KBR3264-3280		Social work of the Church. Public welfare. Caritas
+KBR3320-3460		Church property. Church economics and finance.
                                   Administration
-KBR35003774		Penal (Criminal) law. De lege poenali
-KBR37803983		Judiciary. Ecclesiastical courts and procedure. De
+KBR3500-3774		Penal (Criminal) law. De lege poenali
+KBR3780-3983		Judiciary. Ecclesiastical courts and procedure. De
                                   processibus
 KBR4000-4090		Church and state relationships. De relationibus inter
                                   ecclesiam et status. Ius publicum ecclesiae
@@ -4167,50 +4167,50 @@ KBR4000-4090		Church and state relationships. De relationibus inter
 
 Subclass KBU
 
-KBU24820	Law of the Roman Catholic Church. The Holy See
-KBU219		Bibliography
+KBU2-4820	Law of the Roman Catholic Church. The Holy See
+KBU2-19		Bibliography
 KBU21		Annuals. Annuaires. Yearbooks
 KBU22		Monographic series
-KBU2526		Official gazette of the Holy See
+KBU25-26		Official gazette of the Holy See
 KBU26.8-41.5 		Official acts of the Holy See
-KBU4254.5		Decisions of ecclesiastical tribunals and courts, and related
+KBU42-54.5		Decisions of ecclesiastical tribunals and courts, and related
                                   materials
 KBU56		Encyclopedias
 KBU56.5		Dictionaries. Terms and phrases. Vocabularies
 KBU64		Directories
 KBU102		Form books. Clauses and forms
-KBU127129.5		Trials
-KBU130132		Legal research. Legal bibliography. Methods of bibliographic
+KBU127-129.5		Trials
+KBU130-132		Legal research. Legal bibliography. Methods of bibliographic
                                   research
 KBU133		Legal education. Study and teaching
-KBU136148		Societies. Associations. Academies, etc.
+KBU136-148		Societies. Associations. Academies, etc.
 KBU149		Academies. Institutes
 KBU150		Conferences. Symposia
 KBU160		General works
-KBU180.AZ		Works on diverse aspects of a particular subject and falling
-                                  within several branches of the law. By subject, AZ
+KBU180.A-Z		Works on diverse aspects of a particular subject and falling
+                                  within several branches of the law. By subject, A-Z
 KBU195-1565		Collections. Compilations. Selections
 KBU2155-2157		Canon law and other disciplines or subjects
-KBU21602204		Canonical jurisprudence. Theory and science of canon law 
-KBU22052206		Influence of other legal systems on canon law
+KBU2160-2204		Canonical jurisprudence. Theory and science of canon law 
+KBU2205-2206		Influence of other legal systems on canon law
 KBU2207		Law reform and policies. Criticism
-KBU2208.AZ		Concepts applying to several branches of the law, AZ
-KBU22102212		The codes of canon law
+KBU2208.A-Z		Concepts applying to several branches of the law, A-Z
+KBU2210-2212		The codes of canon law
 KBU2215-2308		General norms and principles. De normis generalibus
 KBU2310-3026		Constitution of the Church
-KBU30403070		The teaching office of the Church. Magisterium. De
+KBU3040-3070		The teaching office of the Church. Magisterium. De
                                   ecclesiae munere docendi
 KBU3075-3165		Sacraments. Administration of sacraments. De sacramentis
                                   et administratione
-KBU31803182		Sacramentals. Sacramentalia
-KBU31843256		Other acts of divine worship. De ceteris actibus Cultus Divini 
-KBU32643280		Social work of the Church. Public welfare. Caritas
-KBU32823310		Medical ethics and legislation. Church policy
-KBU33203460		Church property. Church economics and finance
-KBU35003774		Sanctions in the Church. Criminal law. De sanctionibus in
+KBU3180-3182		Sacramentals. Sacramentalia
+KBU3184-3256		Other acts of divine worship. De ceteris actibus Cultus Divini 
+KBU3264-3280		Social work of the Church. Public welfare. Caritas
+KBU3282-3310		Medical ethics and legislation. Church policy
+KBU3320-3460		Church property. Church economics and finance
+KBU3500-3774		Sanctions in the Church. Criminal law. De sanctionibus in
                                   Ecclesia. De lege poenali
-KBU37803985		Courts and procedure. De processibus
-KBU40004097		Church and state relationships. De relationibus inter
+KBU3780-3985		Courts and procedure. De processibus
+KBU4000-4097		Church and state relationships. De relationibus inter
                                   ecclesiam et status. Ius publicum ecclesiae
 KBU4112-4820		Local Church government
 
@@ -4218,19 +4218,19 @@ KBU4112-4820		Local Church government
 Subclass KD
 
 KD                 	Law of the United Kingdom and Ireland
-KD519500            		England and Wales
-KD88509312            		Local laws of England
-KD93209355            		Local laws of Wales
-KD94009500            		Wales
-KDC51990             		Scotland
-KDE 21580             		Northern Ireland
-KDG26540             		Isle of Man.  Channel Islands
-KDK211950            		Ireland (Eire)
+KD51-9500            		England and Wales
+KD8850-9312            		Local laws of England
+KD9320-9355            		Local laws of Wales
+KD9400-9500            		Wales
+KDC51-990             		Scotland
+KDE 21-580             		Northern Ireland
+KDG26-540             		Isle of Man.  Channel Islands
+KDK21-1950            		Ireland (Eire)
 
 Subclass KDZ
 
-KDZ14999           	America.  North America
-KDZ11011199          		Organization of American States (OAS)
+KDZ1-4999           	America.  North America
+KDZ1101-1199          		Organization of American States (OAS)
 KDZ2001-2499.2		Bermuda
 KDZ3001-3499		Greenland
 KDZ4001-4499		St. Pierre and Miquelon
@@ -4238,432 +4238,432 @@ KDZ4001-4499		St. Pierre and Miquelon
 Subclass KE
 
 KE                 	Law of Canada
-KE19450             		Federal law.  Common and collective provincial law
+KE1-9450             		Federal law.  Common and collective provincial law
                    		Individual provinces and territories
-KEA1599                			Alberta
-KEB1599                			British Columbia
-KEM1599                			Manitoba
-KEN1599                			New Brunswick
-KEN12011799            			Newfoundland
-KEN54015999            			Northwest Territories
-KEN74017999            			Nova Scotia
-KEO11199               			Ontario
-KEP1599                			Prince Edward Island
-KEQ11199               			Quebec
-KES1599                			Saskatchewan
-KEY1599                			Yukon Territory
-KEZ19999             		Individual cities, AZ
+KEA1-599                			Alberta
+KEB1-599                			British Columbia
+KEM1-599                			Manitoba
+KEN1-599                			New Brunswick
+KEN1201-1799            			Newfoundland
+KEN5401-5999            			Northwest Territories
+KEN7401-7999            			Nova Scotia
+KEO1-1199               			Ontario
+KEP1-599                			Prince Edward Island
+KEQ1-1199               			Quebec
+KES1-599                			Saskatchewan
+KEY1-599                			Yukon Territory
+KEZ1-9999             		Individual cities, A-Z
 
 Subclass KF
 
 KF	Law of the United States
-KF19827             		Federal law.  Common and collective state law
+KF1-9827             		Federal law.  Common and collective state law
                    		Individual states
-KFA1599                			Alabama
-KFA12011799            			Alaska
-KFA24012999            			Arizona
-KFA36014199            			Arkansas
-KFC11199               			California
-KFC18012399            			Colorado
-KFC36014199            			Connecticut
+KFA1-599                			Alabama
+KFA1201-1799            			Alaska
+KFA2401-2999            			Arizona
+KFA3601-4199            			Arkansas
+KFC1-1199               			California
+KFC1801-2399            			Colorado
+KFC3601-4199            			Connecticut
 
-KFD1599                			Delaware
-KFD12011799            			District of Columbia
-KFF1599                			Florida
-KFG1599                			Georgia
-KFH1599                			Hawaii
-KFI1599                			Idaho
-KFI12011799            			Illinois
-KFI30013599            			Indiana
-KFI42014799            			Iowa
-KFK1599                			Kansas
-KFK12011799            			Kentucky
-KFL1599                			Louisiana
-KFM1599                			Maine
-KFM12011799            			Maryland
-KFM24012999            			Massachusetts
-KFM42014799            			Michigan
-KFM54015999            			Minnesota
-KFM66017199            			Mississippi
-KFM78018399            			Missouri
-KFM90019599            			Montana  
-KFN1599                			Nebraska
-KFN6011199             			Nevada
-KFN12011799            			New Hampshire
-KFN18012399            			New Jersey
-KFN36014199            			New Mexico
-KFN50016199            			New York
-KFN74017999            			North Carolina
-KFN86019199            			North Dakota
-KFO1599                			Ohio
-KFO12011799            			Oklahoma
-KFO24012999            			Oregon
-KFP1599                			Pennsylvania
-KFR1599                			Rhode Island
-KFS18012399            			South Carolina
-KFS30013599            			South Dakota
-KFT1599                			Tennessee
-KFT12011799            			Texas
-KFU1599                			Utah
-KFV1599                			Vermont
-KFV24012999            			Virginia
-KFW1599                			Washington
-KFW12011799            			West Virginia
-KFW24012999            			Wisconsin
-KFW42014799            			Wyoming
-KFX19999             		Individual cities, AZ
-KFZ18012399          		Northwest Territory
-KFZ86019199          		Confederate States of America
+KFD1-599                			Delaware
+KFD1201-1799            			District of Columbia
+KFF1-599                			Florida
+KFG1-599                			Georgia
+KFH1-599                			Hawaii
+KFI1-599                			Idaho
+KFI1201-1799            			Illinois
+KFI3001-3599            			Indiana
+KFI4201-4799            			Iowa
+KFK1-599                			Kansas
+KFK1201-1799            			Kentucky
+KFL1-599                			Louisiana
+KFM1-599                			Maine
+KFM1201-1799            			Maryland
+KFM2401-2999            			Massachusetts
+KFM4201-4799            			Michigan
+KFM5401-5999            			Minnesota
+KFM6601-7199            			Mississippi
+KFM7801-8399            			Missouri
+KFM9001-9599            			Montana  
+KFN1-599                			Nebraska
+KFN601-1199             			Nevada
+KFN1201-1799            			New Hampshire
+KFN1801-2399            			New Jersey
+KFN3601-4199            			New Mexico
+KFN5001-6199            			New York
+KFN7401-7999            			North Carolina
+KFN8601-9199            			North Dakota
+KFO1-599                			Ohio
+KFO1201-1799            			Oklahoma
+KFO2401-2999            			Oregon
+KFP1-599                			Pennsylvania
+KFR1-599                			Rhode Island
+KFS1801-2399            			South Carolina
+KFS3001-3599            			South Dakota
+KFT1-599                			Tennessee
+KFT1201-1799            			Texas
+KFU1-599                			Utah
+KFV1-599                			Vermont
+KFV2401-2999            			Virginia
+KFW1-599                			Washington
+KFW1201-1799            			West Virginia
+KFW2401-2999            			Wisconsin
+KFW4201-4799            			Wyoming
+KFX1-9999             		Individual cities, A-Z
+KFZ1801-2399          		Northwest Territory
+KFZ8601-9199          		Confederate States of America
 
 Subclass KG
 
-KG1999            	Latin America (General)
+KG1-999            	Latin America (General)
 
-KG30013999        	Mexico and Central America (General)
-KGA19000             		Belize 
-KGB19000             		Costa Rica
-KGC19800             		El Salvador
-KGD19990             		Guatemala
-KGE19990             		Honduras
-KGF19900             		Mexico
-KGG19800             		Nicaragua
-KGH18000             		Panama
-KGH90019499          		Panama Canal Zone
+KG3001-3999        	Mexico and Central America (General)
+KGA1-9000             		Belize 
+KGB1-9000             		Costa Rica
+KGC1-9800             		El Salvador
+KGD1-9990             		Guatemala
+KGE1-9990             		Honduras
+KGF1-9900             		Mexico
+KGG1-9800             		Nicaragua
+KGH1-8000             		Panama
+KGH9001-9499          		Panama Canal Zone
                  	West Indies.  Caribbean area
-KGJ1999              		General
-KGJ70017499          		Anguilla
-KGK1499              		Antigua and Barbuda
-KGK10011499          		Aruba
-KGL1499              		Bahamas
-KGL10011499          		Barbados
-KGL20012499          		Bonaire
-KGL30013499          		British Leeward Islands
-KGL40014499          		British Virgin Islands
-KGL50015999          		British West Indies
-KGL60016499          		British Windward Islands
-KGM1499              		Cayman Islands
-KGN19800             		Cuba
-KGP1499              		CuraÁao
-KGP20012499          		Dominica
-KGQ19800             		Dominican Republic
-KGR1499              		Dutch Leeward Islands (General)
-KGR10011499          		Dutch West Indies (Netherlands Antilles)
-KGR20012499          		Dutch Windward Islands (General) 
-KGR30013499          		French West Indies (General)      
-KGR40014499          		Grenada
-KGR50015499          		Guadeloupe
-KGS19000             		Haiti
-KGT1499              		Jamaica
-KGT10011499          		Martinique
-KGT20012499          		Montserrat
-KGU1499              		Navassa Islands
-KGV18200             		Puerto Rico
-KGW1499              		Saba
-KGW20012499          		Saint Christopher (Saint Kitts), Nevis, and Anguilla
-KGW30013499          		Saint Lucia
-KGW50015499          		Saint Vincent and the Grenadines
-KGW70017499          		Sint Eustatius
-KGW80018499          		Sint Maarten
-KGX1499             		Trinidad and Tobago
-KGY1499              		Turks and Caicos Islands
-KGZ1499              		Virgin Islands of the United States
+KGJ1-999              		General
+KGJ7001-7499          		Anguilla
+KGK1-499              		Antigua and Barbuda
+KGK1001-1499          		Aruba
+KGL1-499              		Bahamas
+KGL1001-1499          		Barbados
+KGL2001-2499          		Bonaire
+KGL3001-3499          		British Leeward Islands
+KGL4001-4499          		British Virgin Islands
+KGL5001-5999          		British West Indies
+KGL6001-6499          		British Windward Islands
+KGM1-499              		Cayman Islands
+KGN1-9800             		Cuba
+KGP1-499              		Cura√ßao
+KGP2001-2499          		Dominica
+KGQ1-9800             		Dominican Republic
+KGR1-499              		Dutch Leeward Islands (General)
+KGR1001-1499          		Dutch West Indies (Netherlands Antilles)
+KGR2001-2499          		Dutch Windward Islands (General) 
+KGR3001-3499          		French West Indies (General)      
+KGR4001-4499          		Grenada
+KGR5001-5499          		Guadeloupe
+KGS1-9000             		Haiti
+KGT1-499              		Jamaica
+KGT1001-1499          		Martinique
+KGT2001-2499          		Montserrat
+KGU1-499              		Navassa Islands
+KGV1-8200             		Puerto Rico
+KGW1-499              		Saba
+KGW2001-2499          		Saint Christopher (Saint Kitts), Nevis, and Anguilla
+KGW3001-3499          		Saint Lucia
+KGW5001-5499          		Saint Vincent and the Grenadines
+KGW7001-7499          		Sint Eustatius
+KGW8001-8499          		Sint Maarten
+KGX1-499             		Trinidad and Tobago
+KGY1-499              		Turks and Caicos Islands
+KGZ1-499              		Virgin Islands of the United States
 
 Subclass KH
 
 
-KH1999            	South America (General)
-KHA19800             		Argentina
-KHC18200             		Bolivia
-KHD19900             		Brazil
-KHF19800             		Chile
-KHH19900             		Colombia
-KHK19990             		Ecuador
-KHL19000             		Falkland Islands
-KHM19000             		French Guiana
-KHN19000             		Guyana
-KHP19700             		Paraguay
-KHQ19800             		Peru
-KHS19000             		Surinam
-KHU19800             		Uruguay
-KHW19900             		Venezuela
+KH1-999            	South America (General)
+KHA1-9800             		Argentina
+KHC1-8200             		Bolivia
+KHD1-9900             		Brazil
+KHF1-9800             		Chile
+KHH1-9900             		Colombia
+KHK1-9990             		Ecuador
+KHL1-9000             		Falkland Islands
+KHM1-9000             		French Guiana
+KHN1-9000             		Guyana
+KHP1-9700             		Paraguay
+KHQ1-9800             		Peru
+KHS1-9000             		Surinam
+KHU1-9800             		Uruguay
+KHW1-9900             		Venezuela
 
 Subclasses KJ-KKZ
 
 KJ                 	Europe
-KJ21040             		History of Law
-KJ1601040             		Germanic law
-KJA23660             		Roman law
-KJC29799             		Regional comparative and uniform law
-KJE57975             		Regional organization and integration.  Comparative law
-KJG14999             		Albania
-KJH1499              		Andorra
-KJJ14999             		Austria
-KJK14999             		Belgium
-KJM14999             		Bulgaria
-KJN1499              		Cyprus
-KJP14999             		Czechoslovakia
-KJR14999             		Denmark
-KJS14985             		Estonia
-KJT14999             		Finland
+KJ2-1040             		History of Law
+KJ160-1040             		Germanic law
+KJA2-3660             		Roman law
+KJC2-9799             		Regional comparative and uniform law
+KJE5-7975             		Regional organization and integration.  Comparative law
+KJG1-4999             		Albania
+KJH1-499              		Andorra
+KJJ1-4999             		Austria
+KJK1-4999             		Belgium
+KJM1-4999             		Bulgaria
+KJN1-499              		Cyprus
+KJP1-4999             		Czechoslovakia
+KJR1-4999             		Denmark
+KJS1-4985             		Estonia
+KJT1-4999             		Finland
                    		France
-KJV29158               			National laws
-KJW514360              			Individual regions, provinces, departments, etc.
-KJW52019600            			Individual cities
+KJV2-9158               			National laws
+KJW51-4360              			Individual regions, provinces, departments, etc.
+KJW5201-9600            			Individual cities
                    		Germany
-KK29799.3             			Germany and West Germany
-KKA79796               			East Germany 
-KKBKKC                     			Individual states, provinces, and cities
-KKE14999             		Greece  
-KKF14999             		Hungary
-KKG1499              		Iceland
-KKH14999             		Italy 
-KKI14890             		Latvia
-KKJ1499              		Liechtenstein
-KKJ5019890           		Lithuania
-KKK1499              		Luxembourg 
-KKK10011499          		Malta
+KK2-9799.3             			Germany and West Germany
+KKA7-9796               			East Germany 
+KKB-KKC                     			Individual states, provinces, and cities
+KKE1-4999             		Greece  
+KKF1-4999             		Hungary
+KKG1-499              		Iceland
+KKH1-4999             		Italy 
+KKI1-4890             		Latvia
+KKJ1-499              		Liechtenstein
+KKJ501-9890           		Lithuania
+KKK1-499              		Luxembourg 
+KKK1001-1499          		Malta
 
-KKL1499              		Monaco
-KKM14999             		Netherlands
-KKN14999             		Norway
-KKP14999             		Poland
-KKQ14999             		Portugal
-KKR14999             		Romania
-KKS1499              		San Marino
-KKT14999             		Spain
+KKL1-499              		Monaco
+KKM1-4999             		Netherlands
+KKN1-4999             		Norway
+KKP1-4999             		Poland
+KKQ1-4999             		Portugal
+KKR1-4999             		Romania
+KKS1-499              		San Marino
+KKT1-4999             		Spain
 KKV1-4999		Sweden
-KKW14999             		Switzerland
-KKX14999             		Turkey
-KKY14999             		Ukraine (1991    )
-KKZ14999             		Yugoslavia
+KKW1-4999             		Switzerland
+KKX1-4999             		Turkey
+KKY1-4999             		Ukraine (1991-    )
+KKZ1-4999             		Yugoslavia
 
 Subclass KL
 
                  	Asia and Eurasia, Africa, Pacific Area, and Antarctica
-KL25915             		History of law.  The ancient orient
-KL2135                			General
-KL147177              			Ancient legal systems compared
-KL190420              			Sources
-KL7002215             			Mesopotamia.  AssyroBabylonian law
-KL10001299            			Sumer
-KL16001899            			Assyria
-KL22002499            			Babylonia
-KL28003099            			Egypt
-KL35003799            			Elam
-KL41104399            			Greek law
-KL47004999            			Hittite law
-KL53005599            			Persia
-KL59006199            			Phoenicia
+KL2-5915             		History of law.  The ancient orient
+KL2-135                			General
+KL147-177              			Ancient legal systems compared
+KL190-420              			Sources
+KL700-2215             			Mesopotamia.  Assyro-Babylonian law
+KL1000-1299            			Sumer
+KL1600-1899            			Assyria
+KL2200-2499            			Babylonia
+KL2800-3099            			Egypt
+KL3500-3799            			Elam
+KL4110-4399            			Greek law
+KL4700-4999            			Hittite law
+KL5300-5599            			Persia
+KL5900-6199            			Phoenicia
             		Eurasia
                      			Turkey, see KKX
-KLA19999               			Russia.  Soviet Union
-KLB16499               			Russia (Federation, 1992    )
-KLD1490                			Armenian S.S.R. (to 1991)
-KLE1490                			Azerbaijan
-KLF1490                			Belarus (Republic)
+KLA1-9999               			Russia.  Soviet Union
+KLB1-6499               			Russia (Federation, 1992-    )
+KLD1-490                			Armenian S.S.R. (to 1991)
+KLE1-490                			Azerbaijan
+KLF1-490                			Belarus (Republic)
                      			Estonia, see KJS
-KLH1490                			Georgia (Republic)
+KLH1-490                			Georgia (Republic)
                      			Latvia, see KKI
                     			Lithuania, see KKJ
-KLM1490                			Moldova
-KLN1489                			Russian S.F.S.R. (to 1991)
-KLP14989               			Ukraine (19191991)
-KLP90019499            			Zakavkazskaia Sotsialisticheskaia Federativnaia Sovetskaia
+KLM1-490                			Moldova
+KLN1-489                			Russian S.F.S.R. (to 1991)
+KLP1-4989               			Ukraine (1919-1991)
+KLP9001-9499            			Zakavkazskaia Sotsialisticheskaia Federativnaia Sovetskaia
                                       Respublika (to 1936)
-KLQ1499                			Bukharskaia Narodnaia Sovetskaia Respublika (to 1924)
-KLR1490                			Kazakhstan
-KLR10011499            			Khorezmskaia Sovetskaia Sotsialisticheskaia Respublika (to 1924)
-KLS1490                			Kyrgyzstan
+KLQ1-499                			Bukharskaia Narodnaia Sovetskaia Respublika (to 1924)
+KLR1-490                			Kazakhstan
+KLR1001-1499            			Khorezmskaia Sovetskaia Sotsialisticheskaia Respublika (to 1924)
+KLS1-490                			Kyrgyzstan
 
-KLT1490                			Tadjikistan
-KLV1490                			Turkmenistan
-KLW1490                			Uzbekistan
+KLT1-490                			Tadjikistan
+KLV1-490                			Turkmenistan
+KLW1-490                			Uzbekistan
 
 Subclass KM
 
                            Asia and Eurasia, Africa, Pacific Area, and Antarctica
              		Asia
-KM1999                			General
+KM1-999                			General
               			Middle East.  Southwest Asia
-KMC1799                  				Regional comparative and uniform law
+KMC1-799                  				Regional comparative and uniform law
 KME10-799				Regional organization and integration
-KMF1293.5                				Armenia (Republic)
-KMF10011490              				Bahrain
-KMG1489                  				Gaza
-KMH14990                 				Iran
-KMJ14990                 				Iraq
-KMK14990                 				Israel
+KMF1-293.5                				Armenia (Republic)
+KMF1001-1490              				Bahrain
+KMG1-489                  				Gaza
+KMH1-4990                 				Iran
+KMJ1-4990                 				Iraq
+KMK1-4990                 				Israel
 
-KML1490                  				Jerusalem
-KMM1490                  				Jordan
-KMM501994                				West Bank (Territory under Israeli occupation, 1967    )
-KMN1499                  				Kuwait
-KMP1490                  				Lebanon
-KMQ1490                  				Oman
-KMQ10011499              				Palestine (to 1948)
-KMS1490                  				Qatar
-KMT14990                 				Saudi Arabia
+KML1-490                  				Jerusalem
+KMM1-490                  				Jordan
+KMM501-994                				West Bank (Territory under Israeli occupation, 1967-    )
+KMN1-499                  				Kuwait
+KMP1-490                  				Lebanon
+KMQ1-490                  				Oman
+KMQ1001-1499              				Palestine (to 1948)
+KMS1-490                  				Qatar
+KMT1-4990                 				Saudi Arabia
                        				Southern Yemen, see KMY
-KMU1490                  				Syria
-KMV19870                 				United Arab Emirates
-KMX10011526              				Yemen
-KMY1489               				Yemen (People's Democratic Republic) (to 1990)
+KMU1-490                  				Syria
+KMV1-9870                 				United Arab Emirates
+KMX1001-1526              				Yemen
+KMY1-489               				Yemen (People's Democratic Republic) (to 1990)
 
 Subclass KN
 
                            Asia and Eurasia, Africa, Pacific Area, and Antarctica
                                Asia
               			South Asia.  Southeast Asia.  East Asia
-KNC1999                  				Regional comparative and uniform law
-KNE150499                				Regional organization and integration
-KNF14990                 				Afghanistan
-KNG14990                 				Bangladesh
-KNH1490                  				Bhutan
-KNK1490                  				Brunei
-KNL14990                 				Burma
-KNM14990                 				Cambodia
-KNN19000                 				China
-KNP1599                  				China (Republic, 1949   ).  Taiwan
-KNQ19665                 				China (People's Republic, 1949    )
-KNR1489                  				Hong Kong
+KNC1-999                  				Regional comparative and uniform law
+KNE150-499                				Regional organization and integration
+KNF1-4990                 				Afghanistan
+KNG1-4990                 				Bangladesh
+KNH1-490                  				Bhutan
+KNK1-490                  				Brunei
+KNL1-4990                 				Burma
+KNM1-4990                 				Cambodia
+KNN1-9000                 				China
+KNP1-599                  				China (Republic, 1949-   ).  Taiwan
+KNQ1-9665                 				China (People's Republic, 1949-    )
+KNR1-489                  				Hong Kong
 
-KNS14999              	   			India
-KNTKNU                  					States, cities, etc.
-KNV1489                  				French Indochina
-KNW14990                 				Indonesia
-KNX14999                 				Japan
-KNY10220                   					Cities, etc.
+KNS1-4999              	   			India
+KNT-KNU                  					States, cities, etc.
+KNV1-489                  				French Indochina
+KNW1-4990                 				Indonesia
+KNX1-4999                 				Japan
+KNY10-220                   					Cities, etc.
 
 Subclass KP
 
                            Asia and Eurasia, Africa, Pacific Area, and Antarctica
                                Asia
                                   South Asia.  Southeast Asia.  East Asia
-KPA14990                 				Korea.  South Korea
-KPC14990                 				Democratic People's Republic of Korea.  North Korea
-KPE14990                 				Laos
-KPF1489                  				Macao
-KPG16999                 				Malaysia
-KPG70019999                					States of East and West Malaysia (1957    ) (Part 1)
+KPA1-4990                 				Korea.  South Korea
+KPC1-4990                 				Democratic People's Republic of Korea.  North Korea
+KPE1-4990                 				Laos
+KPF1-489                  				Macao
+KPG1-6999                 				Malaysia
+KPG7001-9999                					States of East and West Malaysia (1957-    ) (Part 1)
 
-KPH14990                   					States of East and West Malaysia (1957    ) (Part 2)
-KPH50015490              				Maldives
-KPJ1490                  				Mongolia
-KPK1490                  				Nepal
-KPL14990                 				Pakistan
-KPM14990                 				Philippines
-KPP1499                  				Singapore
-KPS14990                 				Sri Lanka
-KPT14990                 				Thailand
-KPV18094                 				Vietnam
-KPW1489        				Vietnam.  South Vietnam
+KPH1-4990                   					States of East and West Malaysia (1957-    ) (Part 2)
+KPH5001-5490              				Maldives
+KPJ1-490                  				Mongolia
+KPK1-490                  				Nepal
+KPL1-4990                 				Pakistan
+KPM1-4990                 				Philippines
+KPP1-499                  				Singapore
+KPS1-4990                 				Sri Lanka
+KPT1-4990                 				Thailand
+KPV1-8094                 				Vietnam
+KPW1-489        				Vietnam.  South Vietnam
 
 Subclass KQ
 
                            Asia and Eurasia, Africa, Pacific Area, and Antarctica
              		Africa
-KQ2197                			History of law
-KQ20109000            			Law of indigenous peoples
-KQC1999                			Regional comparative and uniform law
-KQE101249              			Regional organization and integration
-KQG14990               			Algeria
-KQH14990               			Angola
-KQJ1490                			Benin
-KQK1490                			Botswana
-KQM1499                			British Central Africa Protectorate
-KQP1499                			British Indian Ocean Territory
-KQP10011499            			British Somaliland
-KQT1490                			Burkina Faso
-KQV1490                			Burundi
-KQW18020               			Cameroon
-KQX1490                			Cape Verde
+KQ2-197                			History of law
+KQ2010-9000            			Law of indigenous peoples
+KQC1-999                			Regional comparative and uniform law
+KQE10-1249              			Regional organization and integration
+KQG1-4990               			Algeria
+KQH1-4990               			Angola
+KQJ1-490                			Benin
+KQK1-490                			Botswana
+KQM1-499                			British Central Africa Protectorate
+KQP1-499                			British Indian Ocean Territory
+KQP1001-1499            			British Somaliland
+KQT1-490                			Burkina Faso
+KQV1-490                			Burundi
+KQW1-8020               			Cameroon
+KQX1-490                			Cape Verde
 
 
 Subclass KR
 
                            Asia and Eurasia, Africa, Pacific Area, and Antarctica
                                Africa
-KRB1490                			Central African Republic
-KRC1490                			Chad
-KRE1490                			Comoros
-KRG1490                			Congo
-KRK1490                			Djibouti
-KRL1499                			East Africa Protectorate
-KRM14990               			Egypt
+KRB1-490                			Central African Republic
+KRC1-490                			Chad
+KRE1-490                			Comoros
+KRG1-490                			Congo
+KRK1-490                			Djibouti
+KRL1-499                			East Africa Protectorate
+KRM1-4990               			Egypt
 KRN1-499			Eritrea
-KRP14990               			Ethiopia
-KRR1499                			French Equatorial Africa
-KRS1499                			French West Africa
-KRU1490                			Gabon
-KRV1489                			Gambia
-KRW1499                			German East Africa
-KRX14990               			Ghana
-KRY1499                			Gibraltar
+KRP1-4990               			Ethiopia
+KRR1-499                			French Equatorial Africa
+KRS1-499                			French West Africa
+KRU1-490                			Gabon
+KRV1-489                			Gambia
+KRW1-499                			German East Africa
+KRX1-4990               			Ghana
+KRY1-499                			Gibraltar
 
 Subclass KS
 
                            Asia and Eurasia, Africa, Pacific Area, and Antarctica
                                Africa
-KSA1490                			Guinea
-KSC1490                			GuineaBissau
-KSE1490                			Equatorial Guinea
-KSE601699              			Ifni
-KSG1499                			Italian East Africa
-KSG10011499            			Italian Somaliland
-KSH14990               			Ivory Coast
-KSK14990               			Kenya
-KSL1490                			Lesotho
-KSN1490                			Liberia
-KSP14990               			Libya
-KSR1490                			Madagascar
-KSS1490                			Malawi
-KST1490                			Mali
-KSU1490                			Mauritania
-KSV1490                			Mauritius
-KSV50015490            			Mayotte
-KSW14990               			Morocco
-KSX14990               			Mozambique
-KSY14990               			Namibia
-KSZ1490                			Niger
+KSA1-490                			Guinea
+KSC1-490                			Guinea-Bissau
+KSE1-490                			Equatorial Guinea
+KSE601-699              			Ifni
+KSG1-499                			Italian East Africa
+KSG1001-1499            			Italian Somaliland
+KSH1-4990               			Ivory Coast
+KSK1-4990               			Kenya
+KSL1-490                			Lesotho
+KSN1-490                			Liberia
+KSP1-4990               			Libya
+KSR1-490                			Madagascar
+KSS1-490                			Malawi
+KST1-490                			Mali
+KSU1-490                			Mauritania
+KSV1-490                			Mauritius
+KSV5001-5490            			Mayotte
+KSW1-4990               			Morocco
+KSX1-4990               			Mozambique
+KSY1-4990               			Namibia
+KSZ1-490                			Niger
 
 Subclass KT
 
                            Asia and Eurasia, Africa, Pacific Area, and Antarctica
                                Africa
                                
-KTA19150               			Nigeria
-KTC1499                			RÈunion
-KTD1490                			Rwanda
-KTE1490                			Saint Helena
-KTF1490                			S„o TomÈ and Principe
-KTG14990               			Senegal
-KTH1490                			Seychelles
-KTJ1490                			Sierra Leone
-KTK1490                			Somalia
-KTL19560               			South Africa, Republic of
-KTN1499                			Spanish West Africa (to 1958)
-KTN601699              			Spanish Sahara (to 1975)
-KTQ14990               			Sudan
-KTR1490                			Swaziland
-KTT19910               			Tanzania
-KTU1490                			Togo
-KTV14990               			Tunisia
-KTW1490                			Uganda
-KTX14990               			Zaire
-KTY1490                			Zambia
-KTY15011599            			Zanzibar (to 1964)
-KTZ1490                			Zimbabwe
+KTA1-9150               			Nigeria
+KTC1-499                			R√©union
+KTD1-490                			Rwanda
+KTE1-490                			Saint Helena
+KTF1-490                			S√£o Tom√© and Principe
+KTG1-4990               			Senegal
+KTH1-490                			Seychelles
+KTJ1-490                			Sierra Leone
+KTK1-490                			Somalia
+KTL1-9560               			South Africa, Republic of
+KTN1-499                			Spanish West Africa (to 1958)
+KTN601-699              			Spanish Sahara (to 1975)
+KTQ1-4990               			Sudan
+KTR1-490                			Swaziland
+KTT1-9910               			Tanzania
+KTU1-490                			Togo
+KTV1-4990               			Tunisia
+KTW1-490                			Uganda
+KTX1-4990               			Zaire
+KTY1-490                			Zambia
+KTY1501-1599            			Zanzibar (to 1964)
+KTZ1-490                			Zimbabwe
 
 Subclass KU
 
                            Asia and Eurasia, Africa, Pacific Area, and Antarctica
                                Pacific Area
-KU14999               			Australia
-KUAKUH                				States and territories
+KU1-4999               			Australia
+KUA-KUH                				States and territories
                        				External territories
-KUN501599                  					Norfolk Island
-KUN30013050              				Cities, communities, etc.
-KUQ14990               			New Zealand
+KUN501-599                  					Norfolk Island
+KUN3001-3050              				Cities, communities, etc.
+KUQ1-4990               			New Zealand
 
 Subclass KV
 
@@ -4673,140 +4673,140 @@ Subclass KV
                  				Regional comparative and uniform law
 KVB1-999					Australia and New Zealand
 KVC1-999					Other Pacific area jurisdictions
-KVE200349                				Regional organization and integration
-KVH1490                  				American Samoa
-KVH10011499              				British New Guinea (Territory of Papua)
-KVL1489                  				Cook Islands
-KVM1489                  				Easter Island
-KVN1490                  				Fiji
-KVP1100                  				French Polynesia
-KVP10011099              				German New Guinea (to 1914)
-KVQ1490                  				Guam
+KVE200-349                				Regional organization and integration
+KVH1-490                  				American Samoa
+KVH1001-1499              				British New Guinea (Territory of Papua)
+KVL1-489                  				Cook Islands
+KVM1-489                  				Easter Island
+KVN1-490                  				Fiji
+KVP1-100                  				French Polynesia
+KVP1001-1099              				German New Guinea (to 1914)
+KVQ1-490                  				Guam
 
-KVR1490                  				Kiribati
-KVS1490                  				Marshall Islands
-KVS501990                				Micronesia (Federated States)
-KVS25012999              				Midway Islands
-KVU1499                  				Nauru
-KVU10011099              				Netherlands New Guinea (to 1963)
-KVW1490                  				New Caledonia
+KVR1-490                  				Kiribati
+KVS1-490                  				Marshall Islands
+KVS501-990                				Micronesia (Federated States)
+KVS2501-2999              				Midway Islands
+KVU1-499                  				Nauru
+KVU1001-1099              				Netherlands New Guinea (to 1963)
+KVW1-490                  				New Caledonia
 
 Subclass KW
 
                            Asia and Eurasia, Africa, Pacific Area, and Antarctica
                                Pacific Area
                                   Pacific area jurisdictions
-KWA1489                  				Niue
-KWC1490                  				Northern Mariana Islands
-KWE1499                  				Pacific Islands (Trust Territory)
-KWG1490                  				Palau
-KWH1490                  				Papua New Guinea
-KWL1499                  				Pitcairn Island
-KWL20012490              				Solomon Islands
-KWP1490                  				Tonga
-KWQ1490                  				Tuvalu
-KWR1490                  				Vanuatu
-KWT1489                  				Wake Island
-KWT20012490              				Wallis and Futuna Islands
-KWW1490                  				Western Samoa
+KWA1-489                  				Niue
+KWC1-490                  				Northern Mariana Islands
+KWE1-499                  				Pacific Islands (Trust Territory)
+KWG1-490                  				Palau
+KWH1-490                  				Papua New Guinea
+KWL1-499                  				Pitcairn Island
+KWL2001-2490              				Solomon Islands
+KWP1-490                  				Tonga
+KWQ1-490                  				Tuvalu
+KWR1-490                  				Vanuatu
+KWT1-489                  				Wake Island
+KWT2001-2490              				Wallis and Futuna Islands
+KWW1-490                  				Western Samoa
 KWX                		Antarctica
 
 Subclass KZ
 
-KZ26795             	Law of nations
-KZ25.5                		Bibliography
-KZ2438                		Societies, etc.
-KZ2737                  			National
-KZ(60)62.5            		Intergovernmental congresses and conferences
-KZ(63)1152            		Sources.  Fontes juris gentium
-KZ118194                			Treaties and other international agreements
-KZ119165                  				To 1920
-KZ170173                  				1920
-KZ176182.5                				Boundary treaties
-KZ183183.5                				Treaties of arbitration, investigation, etc.
-KZ184194                  				Peace treaties
-KZ199218                			Judicial decisions and arbitral awards.  Law reports
-KZ2211152               			By region or country
-KZ11651208            		Trials
-KZ11681208              			War crime trials
-KZ12341236            		Legal research.  Legal bibliography
-KZ12491252            		International law and other disciplines
-KZ12551273            		Theory and principles
-KZ12671273              			Domain of the law of nations
-KZ12841285.5          		Methodology
+KZ2-6795             	Law of nations
+KZ2-5.5                		Bibliography
+KZ24-38                		Societies, etc.
+KZ27-37                  			National
+KZ(60)-62.5            		Intergovernmental congresses and conferences
+KZ(63)-1152            		Sources.  Fontes juris gentium
+KZ118-194                			Treaties and other international agreements
+KZ119-165                  				To 1920
+KZ170-173                  				1920-
+KZ176-182.5                				Boundary treaties
+KZ183-183.5                				Treaties of arbitration, investigation, etc.
+KZ184-194                  				Peace treaties
+KZ199-218                			Judicial decisions and arbitral awards.  Law reports
+KZ221-1152               			By region or country
+KZ1165-1208            		Trials
+KZ1168-1208              			War crime trials
+KZ1234-1236            		Legal research.  Legal bibliography
+KZ1249-1252            		International law and other disciplines
+KZ1255-1273            		Theory and principles
+KZ1267-1273              			Domain of the law of nations
+KZ1284-1285.5          		Methodology
 
-KZ12871296            		Codification of the law of nations
-KZ12981304            		The law of treaties.  System of treaty law
-KZ(1319)(1327)        		International legal regimes
-KZ13293085            		Early/Medieval development to ca. 1900.  Ius Naturae et Gentium
-KZ13301339              			Peace of Westphalia to the French Revolution (16481789)
-KZ13451369              			French Revolution to the American Civil War (17891861)
-KZ13731387.2            			American Civil War to the First Conference of the Hague
-                                      (18611899)
-KZ20643085              			Publicists.  Writers on public international law
-KZ30923405            		20th century
-KZ31103405              			Publicists.  Writers on public international law
+KZ1287-1296            		Codification of the law of nations
+KZ1298-1304            		The law of treaties.  System of treaty law
+KZ(1319)-(1327)        		International legal regimes
+KZ1329-3085            		Early/Medieval development to ca. 1900.  Ius Naturae et Gentium
+KZ1330-1339              			Peace of Westphalia to the French Revolution (1648-1789)
+KZ1345-1369              			French Revolution to the American Civil War (1789-1861)
+KZ1373-1387.2            			American Civil War to the First Conference of the Hague
+                                      (1861-1899)
+KZ2064-3085              			Publicists.  Writers on public international law
+KZ3092-3405            		20th century
+KZ3110-3405              			Publicists.  Writers on public international law
 KZ3410                 		21st century
-KZ36703881            		Objects of the law of nations.  Territory and its different parts
-KZ3900(5490)          		The international legal community and members
-KZ3910(5490)            			Subjects of the law of nations
-KZ40024080                				The state
+KZ3670-3881            		Objects of the law of nations.  Territory and its different parts
+KZ3900-(5490)          		The international legal community and members
+KZ3910-(5490)            			Subjects of the law of nations
+KZ4002-4080                				The state
 KZ4110                     				By region
-KZ41124820                				By state
-KZ4850(5490)              				Intergovernmental organizations.  IGOs
-KZ4853(4934)                					The League of Nations
-KZ(4935)5275                					The United Nations
-KZ(5330)(5490)              					Regional organizations
-KZ55106299            		International law of peace and peace enforcement
-KZ55865893              			The system of collective security
-KZ56155893                				Arms control and disarmament regimes
-KZ56375645                  					Conventional arms control
-KZ56475686                  					Nuclear (Strategic) arms limitation
-KZ56875788.5                					Nuclear weapon free zones and zones of peace
-KZ58345865                  					Other weapons of mass destruction
-KZ58705893                  					Mutual and balanced reduction of armed forces
-KZ59005967              				Military pact systems for collective selfdefense
-KZ60096299              				Pacific settlement of international disputes and conflict
+KZ4112-4820                				By state
+KZ4850-(5490)              				Intergovernmental organizations.  IGOs
+KZ4853-(4934)                					The League of Nations
+KZ(4935)-5275                					The United Nations
+KZ(5330)-(5490)              					Regional organizations
+KZ5510-6299            		International law of peace and peace enforcement
+KZ5586-5893              			The system of collective security
+KZ5615-5893                				Arms control and disarmament regimes
+KZ5637-5645                  					Conventional arms control
+KZ5647-5686                  					Nuclear (Strategic) arms limitation
+KZ5687-5788.5                					Nuclear weapon free zones and zones of peace
+KZ5834-5865                  					Other weapons of mass destruction
+KZ5870-5893                  					Mutual and balanced reduction of armed forces
+KZ5900-5967              				Military pact systems for collective self-defense
+KZ6009-6299              				Pacific settlement of international disputes and conflict
                                          resolution
-KZ61156299                					Arbitration and adjudication
-KZ63506785            		Enforced settlement of international disputes
-KZ63606373              			Nonmilitary coercion
-KZ6374(6377)            			Threat of force
-KZ63786795              			Law of war and neutrality.  Jus belli
-KZ64276437                				Warfare on land
-KZ64406530                				Humanitarian law
-KZ65406660                				Warfare on sea
-KZ66656714                				Air warfare
-KZ67306785                				The end of war.  Armistice.  Surrender.  Postliminy
-KZA1002(4205)           	Law of the sea
-KZA10401065               		Intergovernmental congresses and conferences
-KZA11181122               		Treaties and other international agreements
-KZA13401417               		Concepts and principles
+KZ6115-6299                					Arbitration and adjudication
+KZ6350-6785            		Enforced settlement of international disputes
+KZ6360-6373              			Non-military coercion
+KZ6374-(6377)            			Threat of force
+KZ6378-6795              			Law of war and neutrality.  Jus belli
+KZ6427-6437                				Warfare on land
+KZ6440-6530                				Humanitarian law
+KZ6540-6660                				Warfare on sea
+KZ6665-6714                				Air warfare
+KZ6730-6785                				The end of war.  Armistice.  Surrender.  Postliminy
+KZA1002-(4205)           	Law of the sea
+KZA1040-1065               		Intergovernmental congresses and conferences
+KZA1118-1122               		Treaties and other international agreements
+KZA1340-1417               		Concepts and principles
 KZA1340                      			Mare clausum doctrine
-KZA13481405                 			Mare liberum doctrine
-KZA14301690               		Maritime boundaries
-KZA16301664                 			Continental shelf
+KZA1348-1405                 			Mare liberum doctrine
+KZA1430-1690               		Maritime boundaries
+KZA1630-1664                 			Continental shelf
 
-KZA(3481)(3900)           		Marine resources conservation and development
-KZA(3891)(3900)             			Highseas fisheries and fisheries regimes
-KZA4130(4205)             		Public order of the oceans
-KZD10026715             	Space law.  Law of outer space
-KZD10401065               		Intergovernmental congresses and conferences
-KZD11181122               		Treaties and other international agreements
-KZD13401400               		Concepts and principles.  Theory
-KZD13901400                 			Regulated use theory
+KZA(3481)-(3900)           		Marine resources conservation and development
+KZA(3891)-(3900)             			High-seas fisheries and fisheries regimes
+KZA4130-(4205)             		Public order of the oceans
+KZD1002-6715             	Space law.  Law of outer space
+KZD1040-1065               		Intergovernmental congresses and conferences
+KZD1118-1122               		Treaties and other international agreements
+KZD1340-1400               		Concepts and principles.  Theory
+KZD1390-1400                 			Regulated use theory
 KZD1410                    		The source of the law of space
-KZD14201455               		Boundaries
-KZD34894406               		Peaceful uses of outer space
-KZD3489.53608             			Space resources
-KZD40304326                 			Public order in space and outer space
-KZD40804210                   				Space flight
-KZD(4301)4310                 				Space communication
-KZD4320.24326               			Rescue operations in outer space
-KZD44404406                 			Liability for accidents
-KZD56146715               		Unpeaceful uses of outer space
-KZD56205622.2               			Treaties and other international agreements
-KZD56485680.2               			Disarmament and demilitarization regimes in outer space
+KZD1420-1455               		Boundaries
+KZD3489-4406               		Peaceful uses of outer space
+KZD3489.5-3608             			Space resources
+KZD4030-4326                 			Public order in space and outer space
+KZD4080-4210                   				Space flight
+KZD(4301)-4310                 				Space communication
+KZD4320.2-4326               			Rescue operations in outer space
+KZD4440-4406                 			Liability for accidents
+KZD5614-6715               		Un-peaceful uses of outer space
+KZD5620-5622.2               			Treaties and other international agreements
+KZD5648-5680.2               			Disarmament and demilitarization regimes in outer space
 
 CLASS L - EDUCATION
 
@@ -5502,78 +5502,78 @@ CLASS P - LANGUAGE AND LITERATURE
 
 Subclass P
 
-P11091	Philology.  Linguistics
-P185		General
-P8796		Communication.  Mass media
+P1-1091	Philology.  Linguistics
+P1-85		General
+P87-96		Communication.  Mass media
 P94.7			Interpersonal communication
-P9595.6			Oral communication.  Speech
-P9898.5		Computational linguistics.  Natural language processing
-P9999.4		Semiotics.  Signs and symbols
-P99.599.6 		Nonverbal communication
-P101410		Language.  Linguistic theory.  Comparative grammar
-P118118.75			Language acquisition
-P121149			Science of language (Linguistics)
-P201299			Comparative grammar
-P301301.5			Style.  Composition.  Rhetoric
-P302302.87			Discourse analysis
-P306310			Translating and interpreting
-P321324.5			Etymology
-P325325.5			Semantics
-P326326.5			Lexicology
-P327327.5			Lexicography
-P375381			Linguistic geography
-P501769		IndoEuropean (IndoGermanic) philology
-P9011091		Extinct ancient or medieval languages
+P95-95.6			Oral communication.  Speech
+P98-98.5		Computational linguistics.  Natural language processing
+P99-99.4		Semiotics.  Signs and symbols
+P99.5-99.6 		Nonverbal communication
+P101-410		Language.  Linguistic theory.  Comparative grammar
+P118-118.75			Language acquisition
+P121-149			Science of language (Linguistics)
+P201-299			Comparative grammar
+P301-301.5			Style.  Composition.  Rhetoric
+P302-302.87			Discourse analysis
+P306-310			Translating and interpreting
+P321-324.5			Etymology
+P325-325.5			Semantics
+P326-326.5			Lexicology
+P327-327.5			Lexicography
+P375-381			Linguistic geography
+P501-769		Indo-European (Indo-Germanic) philology
+P901-1091		Extinct ancient or medieval languages
 
 Subclass PA
 
-PA1199	Classical philology
-PA201899	Greek philology and language
-PA10001179	Medieval and modern Greek language
-PA20012915	Latin philology and language
-PA30003049	Classical literature
-PA30504505	Greek literature
-PA30513285		Literary history
-PA33003516		Collections
-PA35203564		Criticism, interpretation, etc.
-PA36013681		Translations
-PA38184505		Individual authors
+PA1-199	Classical philology
+PA201-899	Greek philology and language
+PA1000-1179	Medieval and modern Greek language
+PA2001-2915	Latin philology and language
+PA3000-3049	Classical literature
+PA3050-4505	Greek literature
+PA3051-3285		Literary history
+PA3300-3516		Collections
+PA3520-3564		Criticism, interpretation, etc.
+PA3601-3681		Translations
+PA3818-4505		Individual authors
                                   Including:
-PA38253849				Aeschylus
-PA38513858				Aesop
-PA38903926				Aristotle
-PA39493964				Demosthenes
-PA39733992				Euripedes
-PA40184209				Homer
-PA42794333				Plato
-PA43674389				Plutarch
-PA44134434				Sophocles
+PA3825-3849				Aeschylus
+PA3851-3858				Aesop
+PA3890-3926				Aristotle
+PA3949-3964				Demosthenes
+PA3973-3992				Euripedes
+PA4018-4209				Homer
+PA4279-4333				Plato
+PA4367-4389				Plutarch
+PA4413-4434				Sophocles
 
-PA44524486				Thucydides
-PA44944499				Xenophon
-PA50005660	Byzantine and modern Greek literature
-PA53015638.36		Individual authors
-PA60006971	Roman literature
-PA60016097		Literary history
-PA61006140		Collections
-PA61416144		Criticism, interpretation, etc.
-PA61556191		Translations
-PA62026971		Individual authors
+PA4452-4486				Thucydides
+PA4494-4499				Xenophon
+PA5000-5660	Byzantine and modern Greek literature
+PA5301-5638.36		Individual authors
+PA6000-6971	Roman literature
+PA6001-6097		Literary history
+PA6100-6140		Collections
+PA6141-6144		Criticism, interpretation, etc.
+PA6155-6191		Translations
+PA6202-6971		Individual authors
                                   Including:
-PA62356269				Caesar, Julius
-PA62786370				Cicero, Marcus Tullius
-PA63936444				Horace
-PA64826496				Lucretius Carus, Titus
-PA65016510				Martial
-PA65196553				Ovid
-PA65686609				Plautus, Titus Maccius
-PA66116637				Pliny, the Elder
-PA66616693				Seneca, Lucius Annaeus
-PA67056753				Tacitus, Cornelius
-PA67556785				Terentius Apher, Publius (Terence)
-PA68016961				Vergilius Maro, Publius (Virgil)
-PA80018595	Medieval and modern Latin literature
-PA82008595		Individual authors
+PA6235-6269				Caesar, Julius
+PA6278-6370				Cicero, Marcus Tullius
+PA6393-6444				Horace
+PA6482-6496				Lucretius Carus, Titus
+PA6501-6510				Martial
+PA6519-6553				Ovid
+PA6568-6609				Plautus, Titus Maccius
+PA6611-6637				Pliny, the Elder
+PA6661-6693				Seneca, Lucius Annaeus
+PA6705-6753				Tacitus, Cornelius
+PA6755-6785				Terentius Apher, Publius (Terence)
+PA6801-6961				Vergilius Maro, Publius (Virgil)
+PA8001-8595	Medieval and modern Latin literature
+PA8200-8595		Individual authors
 
 Subclass PB
 
@@ -6426,7 +6426,7 @@ PT8060-8098			16th-18th centuries
 PT8070-8094.5				Holberg, Ludvig
 PT8100-8167			19th century
 PT8102-8120				Andersen, Hans Christian
-PT8145-8157				Oehlenschl‰ger, Adam Gottlob
+PT8145-8157				Oehlenschl√§ger, Adam Gottlob
 PT8174-8175			1900-1960
 PT8176-8176.36			1961-2000
 PT8177-8177.36			2001-
@@ -6473,9 +6473,9 @@ PT9650-9877.36		Individual authors or works
 PT9650-9651			Medieval
 PT9674-9715			16th-18th centuries
 PT9725-9850			19th century
-PT9759-9771				Lagerlˆf, Selma
+PT9759-9771				Lagerl√∂f, Selma
 PT9800-9817				Strindberg, Johan August
-PT9820-9838				TegnÈr, Esaias
+PT9820-9838				Tegn√©r, Esaias
 PT9870-9875			1900-1960
 PT9876-9876.36			1961-2000
 PT9877-9877.36			2001-
@@ -7556,411 +7556,411 @@ CLASS U - MILITARY SCIENCE
 
 Subclass U
 
-U1900	Military science (General)
-U2122.3		War.  Philosophy.  Military sociology
-U2743		History of military science
+U1-900	Military science (General)
+U21-22.3		War.  Philosophy.  Military sociology
+U27-43		History of military science
 U45		Historiography
-U5659		Army clubs
-U150155		Military planning
-U161163		Strategy
-U164167.5		Tactics
+U56-59		Army clubs
+U150-155		Military planning
+U161-163		Strategy
+U164-167.5		Tactics
 U168		Logistics
-U250255	  	Maneuvers (combined arms)
+U250-255	  	Maneuvers (combined arms)
 U260		Joint operations.  Combined operations
 U261		Amphibious warfare
 U262		Commando tactics
-U263264.5		Atomic warfare.  Atomic weapons
-U300305	  	Artillery and rifle ranges
-U310310.2		War games
-U320325	  	Physical training of soldiers
-U400714	  	Military education and training
-U750773	  	Military life, manners and customs, antiquities, etc.
-U799897	  	History of arms and armor
+U263-264.5		Atomic warfare.  Atomic weapons
+U300-305	  	Artillery and rifle ranges
+U310-310.2		War games
+U320-325	  	Physical training of soldiers
+U400-714	  	Military education and training
+U750-773	  	Military life, manners and customs, antiquities, etc.
+U799-897	  	History of arms and armor
 
 Subclass UA
 
-UA10997	 Armies: Organization, distribution, military situation
-UA21885		By region or country
-UA910915	  	Mobilization
-UA920925	  	Plans for attack and defense
-UA926929	  	Civil defense
-UA929.5929.95		War damage in industry.  Industrial defense
-UA940945	  	Military communication
-UA950979	  	Routes of travel.  Distances
-UA985997	  	Military geography
+UA10-997	 Armies: Organization, distribution, military situation
+UA21-885		By region or country
+UA910-915	  	Mobilization
+UA920-925	  	Plans for attack and defense
+UA926-929	  	Civil defense
+UA929.5-929.95		War damage in industry.  Industrial defense
+UA940-945	  	Military communication
+UA950-979	  	Routes of travel.  Distances
+UA985-997	  	Military geography
 
 Subclass UB							
 
-UB1900	Military administration
-UB160165		Records, returns, muster rolls, etc.
-UB170175	  	Adjutant generals' offices
-UB180197	  	Civilian personnel departments
-UB250271	  	Intelligence
-UB273274	  	Sabotage
-UB275277	  	Psychological warfare.  Propaganda
-UB320338		Enlistment, recruiting, etc.
+UB1-900	Military administration
+UB160-165		Records, returns, muster rolls, etc.
+UB170-175	  	Adjutant generals' offices
+UB180-197	  	Civilian personnel departments
+UB250-271	  	Intelligence
+UB273-274	  	Sabotage
+UB275-277	  	Psychological warfare.  Propaganda
+UB320-338		Enlistment, recruiting, etc.
 
-UB340345	  	Compulsory service.  Conscription and exemption
-UB356369.5		Provision for veterans
-UB370375	  	Military pensions, etc.
-UB380385	  	Soldiers' and sailors' homes
-UB407409	  	Warrant officers.  Noncommissioned officers
-UB410415	  	Officers
-UB416419	  	Minorities, women, etc. in armed forces
-UB420425	  	Furloughs
-UB440449.5		Retired military personnel
+UB340-345	  	Compulsory service.  Conscription and exemption
+UB356-369.5		Provision for veterans
+UB370-375	  	Military pensions, etc.
+UB380-385	  	Soldiers' and sailors' homes
+UB407-409	  	Warrant officers.  Noncommissioned officers
+UB410-415	  	Officers
+UB416-419	  	Minorities, women, etc. in armed forces
+UB420-425	  	Furloughs
+UB440-449.5		Retired military personnel
 
 Subclass UC
 
-UC10780	Maintenance and transportation
-UC20258		Organization of the service.  By region or country
-UC260267		Supplies and stores
-UC270360	  	Transportation
-UC400440	  	Barracks.  Quarters.  Camps
-UC460535	  	Clothing and equipment
-UC540585	  	Equipage.  Field kits
-UC600695	  	Horses.  Mules.  Remount service
-UC700780	  	Subsistence
+UC10-780	Maintenance and transportation
+UC20-258		Organization of the service.  By region or country
+UC260-267		Supplies and stores
+UC270-360	  	Transportation
+UC400-440	  	Barracks.  Quarters.  Camps
+UC460-535	  	Clothing and equipment
+UC540-585	  	Equipage.  Field kits
+UC600-695	  	Horses.  Mules.  Remount service
+UC700-780	  	Subsistence
 
 Subclass UD
 
-UD1495	Infantry
-UD157302		Tactics.  Maneuvers.  Drill regulations
-UD320325	  	Manual of arms
-UD330335	  	Firing.  Military sharpshooting
-UD340345	  	Bayonet drill
-UD380425	  	Small arms.  Swords, etc.
-UD450455	  	Mounted infantry
-UD460464	  	Mountain troops
-UD470475	  	Ski troops
-UD480485	  	Airborne troops.  Parachute troops
-UD490495	  	Airmobile operations
+UD1-495	Infantry
+UD157-302		Tactics.  Maneuvers.  Drill regulations
+UD320-325	  	Manual of arms
+UD330-335	  	Firing.  Military sharpshooting
+UD340-345	  	Bayonet drill
+UD380-425	  	Small arms.  Swords, etc.
+UD450-455	  	Mounted infantry
+UD460-464	  	Mountain troops
+UD470-475	  	Ski troops
+UD480-485	  	Airborne troops.  Parachute troops
+UD490-495	  	Airmobile operations
 
 Subclass UE
 
-UE1500	Cavalry.  Armor
+UE1-500	Cavalry.  Armor
                                   Including horse cavalry, armored cavalry, mechanized cavalry
-UE144145		Horse cavalry
+UE144-145		Horse cavalry
 UE147		Armored cavalry
-UE157302	  	Tactics.  Maneuvers.  Drill regulations
-UE420425	  	Cavalry sword exercises
-UE460475	  	Horses
+UE157-302	  	Tactics.  Maneuvers.  Drill regulations
+UE420-425	  	Cavalry sword exercises
+UE460-475	  	Horses
 
 Subclass UF
 
-UF1910	Artillery
-UF157302		Tactics.  Maneuvers.  Drill regulations
+UF1-910	Artillery
+UF157-302		Tactics.  Maneuvers.  Drill regulations
 
-UF400405	  	Field artillery
-UF450455	  	Seacoast artillery
-UF460465	  	Siege artillery
-UF470475	  	Howitzer artillery.  Mortar batteries
-UF480485	  	Garrison artillery
-UF500515	  	Weapons systems
-UF520537	  	Ordnance and small arms
-UF540545	  	Arsenals, magazines, armories, etc.
-UF560780	  	Ordnance material (Ordnance proper)
-UF820830	  	Ballistics.  Velocities and motions of projectiles
-UF848856	  	Artillery instruments.  Fire control, etc.
+UF400-405	  	Field artillery
+UF450-455	  	Seacoast artillery
+UF460-465	  	Siege artillery
+UF470-475	  	Howitzer artillery.  Mortar batteries
+UF480-485	  	Garrison artillery
+UF500-515	  	Weapons systems
+UF520-537	  	Ordnance and small arms
+UF540-545	  	Arsenals, magazines, armories, etc.
+UF560-780	  	Ordnance material (Ordnance proper)
+UF820-830	  	Ballistics.  Velocities and motions of projectiles
+UF848-856	  	Artillery instruments.  Fire control, etc.
 
 Subclass UG
 
-UG1620	Military engineering
-UG160302		Tactics and regulations
+UG1-620	Military engineering
+UG160-302		Tactics and regulations
 UG335		Bridges
 UG340		Tunnels
-UG360390	  	Field engineering
-UG400442	  	Fortification
-UG443449	  	Attack and defense.  Siege warfare
-UG470474	  	Military surveying, topography, and  mapping
+UG360-390	  	Field engineering
+UG400-442	  	Fortification
+UG443-449	  	Attack and defense.  Siege warfare
+UG470-474	  	Military surveying, topography, and  mapping
 UG490		Land mines, etc.
-UG500565	  	Technical troops and other special corps
-UG570582	  	Military signaling
-UG590613.5		Military telegraphy and telephony
-UG614614.5		Military electric lighting
-UG615620	  	Military motor vehicles
-UG6221435	Air forces.  Air warfare
-UG633635		By region or country
-UG637639	  	Education and training
-UG640645	  	Military aeronautical research
-UG700705	  	Tactics
-UG730735	  	Air defenses
-UG760765	  	Aerial reconnaissance
-UG7701045	 	Organization.  Personnel management
+UG500-565	  	Technical troops and other special corps
+UG570-582	  	Military signaling
+UG590-613.5		Military telegraphy and telephony
+UG614-614.5		Military electric lighting
+UG615-620	  	Military motor vehicles
+UG622-1435	Air forces.  Air warfare
+UG633-635		By region or country
+UG637-639	  	Education and training
+UG640-645	  	Military aeronautical research
+UG700-705	  	Tactics
+UG730-735	  	Air defenses
+UG760-765	  	Aerial reconnaissance
+UG770-1045	 	Organization.  Personnel management
 UG1097		Air bases
-UG11001435		Equipment and supplies
-UG15001530	Military astronautics.  Space warfare.  Space surveillance  
-UG15231525		By region or country
+UG1100-1435		Equipment and supplies
+UG1500-1530	Military astronautics.  Space warfare.  Space surveillance  
+UG1523-1525		By region or country
 
 Subclass UH
 
-UH20910	Other services
-UH2025		Chaplains
-UH201515	  	Medical and sanitary services
-UH520(560)		Care of sick and wounded.  Relief societies
-UH600629.5		Military hygiene and sanitation
-UH700705	  	Public relations.  Press.  War correspondents
-UH750769		Military social work.  Social welfare services
+UH20-910	Other services
+UH20-25		Chaplains
+UH201-515	  	Medical and sanitary services
+UH520-(560)		Care of sick and wounded.  Relief societies
+UH600-629.5		Military hygiene and sanitation
+UH700-705	  	Public relations.  Press.  War correspondents
+UH750-769		Military social work.  Social welfare services
 
-UH800910	  	Recreation and information services
+UH800-910	  	Recreation and information services
 
 CLASS V - NAVAL SCIENCE
 
 Subclass V
 
-V1995	Naval science (General)
-V2555		History and antiquities of naval science
-V6669		Navy clubs						
-V160165	  	Strategy
-V167178	  	Tactics
+V1-995	Naval science (General)
+V25-55		History and antiquities of naval science
+V66-69		Navy clubs						
+V160-165	  	Strategy
+V167-178	  	Tactics
 V200		Coast defense
-V210214.5		Submarine warfare
-V390395	  	Naval research
-V396396.5		Military oceanography
+V210-214.5		Submarine warfare
+V390-395	  	Naval research
+V396-396.5		Military oceanography
 V399		Automation in the naval sciences
-V400695	  	Naval education
-V720743	  	Naval life, manners and customs, antiquities, etc.
-V750995	  	War vessels: Construction, armament, etc.
+V400-695	  	Naval education
+V720-743	  	Naval life, manners and customs, antiquities, etc.
+V750-995	  	War vessels: Construction, armament, etc.
 
 Subclass VA
                                                     
-VA10750	Navies: Organization, distribution, naval situation
-VA49395		United States
-VA400750	  	Other regions or countries
+VA10-750	Navies: Organization, distribution, naval situation
+VA49-395		United States
+VA400-750	  	Other regions or countries
 
 Subclass VB
 
-VB15(955)	Naval administration
-VB21124		By region or country
-VB170187	  	Civil department
-VB260275	  	Enlisted personnel
-VB307309	  	Warrant officers
-VB310315	  	Officers
-VB320325	  	Minorities, women, etc. in navies
+VB15-(955)	Naval administration
+VB21-124		By region or country
+VB170-187	  	Civil department
+VB260-275	  	Enlisted personnel
+VB307-309	  	Warrant officers
+VB310-315	  	Officers
+VB320-325	  	Minorities, women, etc. in navies
 
 Subclass VC
 
-VC10580	Naval maintenance
-VC20258		Organization of service
-VC260268	  	Supplies and stores
-VC270279	  	Equipment of vessels, supplies, allowances, etc.
-VC280345	  	Clothing and equipment
-VC350410	  	Subsistence.  Provisioning
-VC412425	  	Navy yards and stations.  Shore facilities
+VC10-580	Naval maintenance
+VC20-258		Organization of service
+VC260-268	  	Supplies and stores
+VC270-279	  	Equipment of vessels, supplies, allowances, etc.
+VC280-345	  	Clothing and equipment
+VC350-410	  	Subsistence.  Provisioning
+VC412-425	  	Navy yards and stations.  Shore facilities
 
 Subclass VD
 
-VD7430	Naval seamen
+VD7-430	Naval seamen
 
-VD21124		By region or country
-VD160302	  	Drill regulations
-VD330335	  	Shooting
-VD360390	  	Small arms
-VD400405	  	Small boat service
+VD21-124		By region or country
+VD160-302	  	Drill regulations
+VD330-335	  	Shooting
+VD360-390	  	Small arms
+VD400-405	  	Small boat service
 
 Subclass VE
 
-VE7500	Marines
-VE23124		By region or country
-VE160302	  	Drill regulations
-VE330335	  	Shooting
-VE360390	  	Small arms
-VE420425	  	Barracks, quarters, etc.
-VE430435	  	Training camps
+VE7-500	Marines
+VE23-124		By region or country
+VE160-302	  	Drill regulations
+VE330-335	  	Shooting
+VE360-390	  	Small arms
+VE420-425	  	Barracks, quarters, etc.
+VE430-435	  	Training camps
 
 Subclass VF
 
-VF1580	Naval ordnance
-VF21124		By region or country
-VF160302	  	Ordnance instructions and drill books
-VF310315	  	Target practice
-VF346348	  	Naval weapons systems
-VF350375	  	Ordnance and arms (General)
-VF390510	  	Ordnance material (Ordnance proper)
+VF1-580	Naval ordnance
+VF21-124		By region or country
+VF160-302	  	Ordnance instructions and drill books
+VF310-315	  	Target practice
+VF346-348	  	Naval weapons systems
+VF350-375	  	Ordnance and arms (General)
+VF390-510	  	Ordnance material (Ordnance proper)
 
 Subclass VG
 
-VG202029	Minor services of navies
-VG2025		Chaplains
-VG5055		Coast guard and coast signal service
-VG7085		Naval communication by telegraphy, telephone, etc.
-VG9095		Naval aviation
-VG100475	  	Medical service
-VG500505	  	Public relations.  Press.  War  correspondents
-VG20002005		Social work.  Social welfare services
-VG20202029		Recreation and information service
+VG20-2029	Minor services of navies
+VG20-25		Chaplains
+VG50-55		Coast guard and coast signal service
+VG70-85		Naval communication by telegraphy, telephone, etc.
+VG90-95		Naval aviation
+VG100-475	  	Medical service
+VG500-505	  	Public relations.  Press.  War  correspondents
+VG2000-2005		Social work.  Social welfare services
+VG2020-2029		Recreation and information service
 
 Subclass VK
 
-VK11661	Navigation.  Merchant marine
-VK15124		History, conditions, etc.
-VK321369.8		Harbors.  Ports
-VK381397	  	Signaling
-VK401529	  	Study and teaching
-VK549572	  	Science of navigation
-VK573587	  	Nautical instruments
-VK588597	  	Marine hydrography.  Hydrographic surveying
-VK600794	  	Tide and current tables
-VK798997	  	Sailing directions.  Pilot guides
+VK1-1661	Navigation.  Merchant marine
+VK15-124		History, conditions, etc.
+VK321-369.8		Harbors.  Ports
+VK381-397	  	Signaling
+VK401-529	  	Study and teaching
+VK549-572	  	Science of navigation
+VK573-587	  	Nautical instruments
+VK588-597	  	Marine hydrography.  Hydrographic surveying
+VK600-794	  	Tide and current tables
+VK798-997	  	Sailing directions.  Pilot guides
 
-VK10001249		Lighthouse service
-VK12501299		Shipwrecks and fires
-VK1299.51299.6		Icebreaking operations
-VK13001491		Saving of life and property
-VK15001661		Pilots and pilotage
+VK1000-1249		Lighthouse service
+VK1250-1299		Shipwrecks and fires
+VK1299.5-1299.6		Icebreaking operations
+VK1300-1491		Saving of life and property
+VK1500-1661		Pilots and pilotage
 
 Subclass VM
 
 
-VM1989	Naval architecture.  Shipbuilding.  Marine engineering
-VM15124		History
-VM165276		Study and teaching
-VM295296		Contracts and specifications
-VM298.5301		Shipbuilding industry.  Shipyards
-VM311466		Special types of vessels
-VM595989		Marine engineering
-VM975989			Diving
+VM1-989	Naval architecture.  Shipbuilding.  Marine engineering
+VM15-124		History
+VM165-276		Study and teaching
+VM295-296		Contracts and specifications
+VM298.5-301		Shipbuilding industry.  Shipyards
+VM311-466		Special types of vessels
+VM595-989		Marine engineering
+VM975-989			Diving
 
 CLASS Z - BIBLIOGRAPHY.  LIBRARY SCIENCE.  
 INFORMATION RESOURCES (GENERAL)  
 
 Subclass Z
 
-Z4115.5	Books (General).  Writing.  Paleography
-Z48		History of books and bookmaking
-Z40104.5		Writing
-Z4142.5			Autographs.  Signatures
-Z4345			Calligraphy.  Penmanship
+Z4-115.5	Books (General).  Writing.  Paleography
+Z4-8		History of books and bookmaking
+Z40-104.5		Writing
+Z41-42.5			Autographs.  Signatures
+Z43-45			Calligraphy.  Penmanship
 Z48			Duplicating processes.  Copying services
                                          Including mimeographing, multilithing
-Z4951.5			Typewriters.  Typewriting.  Keyboards.  Keyboarding
-Z5252.5			Word processing
-Z53102			Shorthand.  Stenography.  Phonography
-Z102.5104.5		 	Cryptography.  Ciphers.  Invisible writing
-Z105115.5		Manuscripts.  Paleography
-Z116659	Book industries and trade
+Z49-51.5			Typewriters.  Typewriting.  Keyboards.  Keyboarding
+Z52-52.5			Word processing
+Z53-102			Shorthand.  Stenography.  Phonography
+Z102.5-104.5		 	Cryptography.  Ciphers.  Invisible writing
+Z105-115.5		Manuscripts.  Paleography
+Z116-659	Book industries and trade
 Z116.A2		Treatises on the modern printed book
 Z116.A3		Book design
-Z116.A5265.5		Printing
-Z124228			History
-Z231234			Printers and printing establishments
+Z116.A5-265.5		Printing
+Z124-228			History
+Z231-234			Printers and printing establishments
 Z234				Medallic history of printing.  Tokens
-Z235236			Printer's marks, mottoes, etc.
+Z235-236			Printer's marks, mottoes, etc.
 Z237			Paper.  Watermarks, etc.
-Z240241.5			Incunabula.  Block books
+Z240-241.5			Incunabula.  Block books
                                       Including broadsides, playing cards
-Z242.9264.5			Practical printing
+Z242.9-264.5			Practical printing
                                       Including printing as a business, layout, paper and ink,
                                          machinery, type and type founding, electrotyping,
                                          desktop publishing, typesetting, presswork
-Z265265.5			Representation or reproduction of books, documents,
+Z265-265.5			Representation or reproduction of books, documents,
                                       etc., by photography, microphotography, or other
                                       means
-Z266276		Bookbinding.  Book decoration
-Z278549		Bookselling and publishing
-Z551656		Copyright
-Z657659		Freedom of the press.  Censorship
-Z6621000.5	Libraries
-Z662664		Collections
-Z665718.8		Library science.  Information science
-Z668669.7			Library education.  Research
-Z672Z672.13			Library cooperation and coordination
-Z674.7674.83			Library information networks
+Z266-276		Bookbinding.  Book decoration
+Z278-549		Bookselling and publishing
+Z551-656		Copyright
+Z657-659		Freedom of the press.  Censorship
+Z662-1000.5	Libraries
+Z662-664		Collections
+Z665-718.8		Library science.  Information science
+Z668-669.7			Library education.  Research
+Z672-Z672.13			Library cooperation and coordination
+Z674.7-674.83			Library information networks
 Z675			Classes of libraries
-Z678678.88			Library administration and organization.  Constitution
-Z678.89678.892			Library service agencies
+Z678-678.88			Library administration and organization.  Constitution
+Z678.89-678.892			Library service agencies
 
-Z678.9Z678.93			Automation
-Z679680			Library buildings.  Library architecture
+Z678.9-Z678.93			Automation
+Z679-680			Library buildings.  Library architecture
                                       Including planning, space utilization, security, safety,
                                          lighting, etc.
-Z680.3680.6			Library communication systems
-Z681681.3			Reproduction of library materials.  Storage media of
+Z680.3-680.6			Library communication systems
+Z681-681.3			Reproduction of library materials.  Storage media of
                                       library materials
-Z681.5681.7			Trustees.  Library boards, committees, etc.
-Z682682.4			Personnel
-Z683683.5			Finance.  Insurance
-Z684685			Supplies.  Shelving.  Bookstacks
+Z681.5-681.7			Trustees.  Library boards, committees, etc.
+Z682-682.4			Personnel
+Z683-683.5			Finance.  Insurance
+Z684-685			Supplies.  Shelving.  Bookstacks
 Z686			Branches.  Delivery stations.  Bookmobiles
-Z687718.85			The collections.  The books
+Z687-718.85			The collections.  The books
 Z688				Special collections
-Z688.5Z688.6				Processing
-Z689689.8				Acquisition (selection, purchase, gifts, duplicates)
+Z688.5-Z688.6				Processing
+Z689-689.8				Acquisition (selection, purchase, gifts, duplicates)
 Z690				Exchanges
-Z691692				Special classes of materials
+Z691-692				Special classes of materials
                                          Including manuscripts, maps, microforms, serials
-Z693695.83				Cataloging
+Z693-695.83				Cataloging
 Z695.85				Library handwriting
 Z695.87				Printing of catalogs
-Z695.9695.94				Indexing.  Abstracting
+Z695.9-695.94				Indexing.  Abstracting
 Z695.95				Alphabetizing.  Filing
 Z695.98				Recataloging.  Reclassification
-Z696697				Classification and notation
+Z696-697				Classification and notation
 Z698				Shelflisting.  Author notation
-Z699699.5				Machine methods of information and retrieval.
+Z699-699.5				Machine methods of information and retrieval.
                                          Mechanized bibliographic control
 Z699.7				Physical processing.  Shelf preparation
 Z700				Bookbinding
-Z700.9701.5				Physical parameters, preservation, conservation and
+Z700.9-701.5				Physical parameters, preservation, conservation and
                                          restoration of books and other library materials 
 Z702				Thefts and losses of books and other library materials
 Z703.5				Stack management. Disposition of books on shelves,
                                          etc.
 Z703.6				Discarding.  Weeding
-Z711711.95			Public services.  Reference services
-Z712714			Circulation.  Loans.  Charging systems
-Z716716.15			Library extension.  Library commissions.  Traveling
+Z711-711.95			Public services.  Reference services
+Z712-714			Circulation.  Loans.  Charging systems
+Z716-716.15			Library extension.  Library commissions.  Traveling
                                       libraries
-Z716.2718.85			Libraries in relation to special topics
+Z716.2-718.85			Libraries in relation to special topics
                                       Including libraries and community, libraries and
                                          television, children's libraries, libraries and
                                          students
-Z719723		Libraries (General)
-Z729875		Library reports.  History.  Statistics
-Z881977		Library catalogs and bulletins
-Z987996.3		Book collecting
+Z719-723		Libraries (General)
+Z729-875		Library reports.  History.  Statistics
+Z881-977		Library catalogs and bulletins
+Z987-996.3		Book collecting
                                   Including bibliophilism, bookplates
 Z997-997.2		Private libraries
 
-Z9991000.5		Booksellers' catalogs
-Z10011121	General bibliography
+Z999-1000.5		Booksellers' catalogs
+Z1001-1121	General bibliography
 Z1001		Introduction to bibliography. Theory, philosophy,
                                   psychology. Bibliography. Documentation   
-Z10031003.5		Choice of books.  Books and reading.  Book reviews
-Z1003.8Z1004		Biography of bibliographers
-Z10111017		General bibliographies
-Z10191033		Special classes of books
+Z1003-1003.5		Choice of books.  Books and reading.  Book reviews
+Z1003.8-Z1004		Biography of bibliographers
+Z1011-1017		General bibliographies
+Z1019-1033		Special classes of books
                                   Including prohibited books, rare books, paperbacks,
                                       reprints
-Z10351035.9		Best books
+Z1035-1035.9		Best books
 Z1036		Booksellers' general catalogs of modern books
-Z10371039		Books for special classes of persons, institutions, etc.
-Z10411107		Anonyms and pseudonyms
-Z12014980	National bibliography
-Z12011946		America
-Z12151363			United States
-Z13651401			Canada.  British North America
-Z14111939			Mexico.  Central America.  West Indies.  South America
+Z1037-1039		Books for special classes of persons, institutions, etc.
+Z1041-1107		Anonyms and pseudonyms
+Z1201-4980	National bibliography
+Z1201-1946		America
+Z1215-1363			United States
+Z1365-1401			Canada.  British North America
+Z1411-1939			Mexico.  Central America.  West Indies.  South America
 Z1975		Eastern Hemisphere
-Z20002959		Europe
-Z30013496		Asia
-Z35013975		Africa
-Z40014980		Australia.  Oceania
-Z50517999	Subject bibliography
+Z2000-2959		Europe
+Z3001-3496		Asia
+Z3501-3975		Africa
+Z4001-4980		Australia.  Oceania
+Z5051-7999	Subject bibliography
                                Subjects arranged in alphabetical sequence
-Z80018999	Personal bibliography
+Z8001-8999	Personal bibliography
                                Names of individuals arranged in alphabetical sequence
 
 Subclass ZA
 
-ZA30385190 	Information resources (General) 
-ZA31503159 		Information services. Information centers 
-ZA32013250 		Information superhighway 
-ZA40504775 		Information in specific formats or media 
-ZA40504480 			Electronic information resources 
-ZA41504380 				Computer network resources 
-ZA44504460 				Databases 
-ZA45504575			Motion pictures. Video recordings 
-ZA46504675 			Pictures. Photographs 
-ZA47504775 			Sound recordings 
-ZA50495190 		Government information 
+ZA3038-5190 	Information resources (General) 
+ZA3150-3159 		Information services. Information centers 
+ZA3201-3250 		Information superhighway 
+ZA4050-4775 		Information in specific formats or media 
+ZA4050-4480 			Electronic information resources 
+ZA4150-4380 				Computer network resources 
+ZA4450-4460 				Databases 
+ZA4550-4575			Motion pictures. Video recordings 
+ZA4650-4675 			Pictures. Photographs 
+ZA4750-4775 			Sound recordings 
+ZA5049-5190 		Government information 
