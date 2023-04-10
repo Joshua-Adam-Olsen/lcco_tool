@@ -1,0 +1,27 @@
+<body class="grid-container">
+    <header class="grid-y grid-">
+        <p class="cell" id="siteTitle">Library of Congress Classification Outline Tool</p>
+        <nav class="cell">
+            <ul class="tabs" data-tabs id="lcco-tabs">
+                <li class="tabs-title is-active"><a href="#home" data-tabs-target="home" aria-selected="true">Home</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="grid-y">
+        <form class="cell search">
+            <input class="text" type="text">
+            <input class="submit" type="submit" value="Search">
+        </form>
+        <div class="results" style="display:none;"></div>
+        <div class="cell tabs-content" data-tabs-content="lcco-tabs">
+            <div class="tabs-panel is-active" id="home">
+                <h2>Home</h2>
+                <p>Welcome to the unofficial Library of Congress Classification Outline(LCCO) Tool. You can begin by using the above tabs to browse the LCCO classes.
+                </p>
+            </div>
+        </div>
+    </main>
+    <footer class="grid-y">
+        <small class="cell">Made by Joshua A. Olsen</small>
+    </footer>
+</body>
