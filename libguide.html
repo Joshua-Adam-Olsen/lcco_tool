@@ -1,0 +1,364 @@
+<!-- START::Guide Custom JS/CSS -->
+<style>
+.s-lg-page-section h4 { display: none; }
+.panel-heading { padding: 0; }
+.panel-title a { position: relative; display: block; padding: 10px 15px; outline: none;}
+.panel-title:hover,
+.panel-title:focus { box-shadow: 0 1px 6px 0 rgba(32, 33, 36, .28); }
+.panel-title a::after {
+  content: '\002B';
+  position: absolute;
+  top: 50%;
+  right: 15px;
+  transform: translateY(-50%);
+  display: block;
+  font-size: 1.25rem;
+  transition: all 150ms ease-in-out;
+}
+.panel-title a:not(.collapsed)::after { transform: translateY(-50%) rotate(45deg); }
+.panel-title a span { font-weight: 700; }
+</style>
+<!-- END::Guide Custom JS/CSS -->
+
+<!-- START::Header -->
+<ul class="nav nav-pills">
+  <li class="active"><a href="#home" data-toggle="pill">Home</a></li>
+</ul>
+<!-- END::Header -->
+
+<!-- START::Main -->
+<form class="search form-inline" style="display:flex;">
+  <div class="input-group" style="flex-basis: 100%;display:inline-flex;margin-right:5px;">
+    <span class="input-group-btn"><button class="btn btn-default" type="button" onclick='resultReset()'>&times;</button></span>
+    <input class="text form-control" type="text" placeholder="Search for..." style="height: 34px;">
+  </div>
+  <input class="submit btn btn-default" type="submit" value="Search">
+</form>
+
+<div class="results" style="display:none;"></div> 
+
+<!-- Tab panes -->
+<div class="tab-content" style="margin-top: 20px;">
+  <div role="tabpanel" class="tab-pane active" id="home">
+    <h2 style="font-size:24px;font-weight:700;">Home</h2>
+    <br>
+    <p>Welcome to the unofficial Library of Congress Classification Outline(LCCO) Tool. A tool for quick referencing the Library of Congress' classification outline. Includes LCC classes, subclasses, and the outline of topics/ranges (Source: <a href="https://www.loc.gov/catdir/cpso/lcco/" target="_blank">www.loc.gov/catdir/cpso/lcco/</a>). You can begin by using the above tabs to browse the LCCO classes or you could try searching for a specific subject in the search form.</p>
+  </div>
+</div>
+<!-- END::Main -->
+
+<!-- START::Footer -->
+<script>
+// Search Functions
+// Define function to reset results
+function resultReset() {
+    let resultsEl = document.querySelector('.results');
+    resultsEl.innerHTML = "";
+    resultsEl.setAttribute('style', 'display:none');
+    document.querySelector('.search .text').value = '';
+}
+// Define search function for when search form is submitted
+function search() {
+    let query =  document.querySelector('.search .text').value.toLowerCase().replace('*', '.*').trim(),
+        results = [],
+        resultsEl = document.querySelector('.results');
+    if ( 2 < query.length ) {
+        resultsEl.innerHTML = "";
+        // Iterate through classes, subclasses, & subjects
+        document.querySelectorAll('.tab-pane').forEach( function(i) {
+            i.querySelectorAll('.panel-group').forEach( function(j) {
+                j.querySelectorAll('table tr td:nth-child(2) h4').forEach( function(k) {
+                    let innerText = k.innerHTML.toLowerCase(),
+                    queryRegEx = new RegExp("(^| )(" + query +")");
+                    if ( queryRegEx.test(innerText) ) {
+                        results.push([i,j,k]);
+                    }
+                }, query);
+            }, query);
+        }, query);
+        resultsEl.setAttribute('style', 'display:block');
+        resultsEl.innerHTML = "<br>";
+        resultsEl.innerHTML = resultsEl.innerHTML + "<h5 style="font-size:14px;font-weight:700;">We found:</h5>";
+        results.forEach( function(result) {
+            resultsEl.innerHTML = resultsEl.innerHTML + "<strong>" + result[2].innerHTML + "</strong> under the <strong>" + result[1].id + "</strong> subheading in the <strong>" + result[0].id + "</strong> class.<br>";
+        });
+        if ( 0 >= results.length ) {
+            resultsEl.innerHTML = resultsEl.innerHTML + "<br><pre>¯\\_(ツ)_/¯</pre><br><small>Maybe try another search?</small><br>";
+        }
+        resultsEl.innerHTML = resultsEl.innerHTML + "<br><button class='btn btn-default' onclick='resultReset()'>Clear Results</button><br>";
+    } else {
+        resultsEl.innerHTML = "<h6 style="font-size:12px;font-weight:700;">Please enter at least 3 non-blank characters to search</h6>";
+        resultsEl.setAttribute('style', 'display:block');
+    }
+}
+
+// Build Functions
+// Define a function to make a class tab
+function mkClassTab(label){
+    // Make Class Tab
+    let li = document.createElement("li"),
+        link = document.createElement("a"),
+        node = document.createTextNode(label.split(' - ')[0]);
+    link.appendChild(node);
+    link.setAttribute('data-toggle', 'pill');
+    link.setAttribute('href', '#' + label.split(' - ')[0]);
+    li.appendChild(link);
+    document.querySelector('.nav.nav-pills').appendChild(li);
+}
+// Define a function to make a class panel
+function mkClassPanel(label) {
+    // Make Class Panel
+    let div = document.createElement('div'),
+        h2  = document.createElement('h2');
+    h2.setAttribute('style', 'font-size:24px;font-weight:700;');
+    h2.appendChild(document.createTextNode(label.split(' - ')[1]));
+    let br = document.createElement('br');
+    div.classList.add('tab-pane');
+    div.setAttribute('id', label.split(' - ')[0] );
+    div.appendChild(h2);
+    div.appendChild(br);
+    document.querySelector('.tab-content').appendChild(div);
+}
+// Define a function to make a subclass accordion
+function mkSubClassAccordion(lastClass, label) {
+    let panelGroup = document.createElement('div');
+    panelGroup.setAttribute('id', label.split(' ')[1].trim());
+    panelGroup.classList.add('panel-group');
+    let panel = document.createElement('div');
+    panel.classList.add('panel', 'panel-default');
+    let panelHeading = document.createElement('div');
+    panelHeading.classList.add('panel-heading');
+    let panelTitle = document.createElement('h4');
+    panelTitle.classList.add('panel-title');
+    let titleButton = document.createElement('a');
+    titleButton.classList.add('collapsed');
+    titleButton.setAttribute('data-toggle', 'collapse');
+    titleButton.setAttribute('data-parent', '#' + label.split(' ')[1].trim());
+    titleButton.setAttribute('href', '#' + label.split(' ')[1].trim() + 'collapse');
+    titleButton.appendChild(document.createTextNode( label.split(' ')[1].trim() ));
+    panelTitle.appendChild(titleButton);
+    panelHeading.appendChild(panelTitle);
+    panel.appendChild(panelHeading);
+    let collapse = document.createElement('div');
+    collapse.setAttribute('id', label.split(' ')[1].trim() + 'collapse');
+    collapse.classList.add('panel-collapse', 'collapse');
+    let collapseBody = document.createElement('div');
+    collapseBody.classList.add('panel-body');
+    collapseBody.appendChild(mkTable());
+    collapse.appendChild(collapseBody);
+    panel.appendChild(collapse);
+    panelGroup.appendChild(panel);
+    document.querySelector('#'+lastClass.split(' - ')[0]).appendChild(panelGroup);
+}
+// Define function to make a table for displaying ranges and subjects
+function mkTable() {
+    let tablewrp = document.createElement('div');
+    tablewrp.classList.add('table-responsive');
+    let table = document.createElement('table');
+    table.classList.add('table', 'table-hover');
+    let thead = document.createElement('thead'),
+        tr = document.createElement('tr'),
+        th = document.createElement('th');
+    node = document.createTextNode('Range');
+    th.appendChild(node);
+    tr.appendChild(th);
+    th = document.createElement('th');
+    node =  document.createTextNode('Subject');
+    th.appendChild(node);
+    tr.appendChild(th);
+    thead.appendChild(tr);
+    table.appendChild(thead);
+    let tbody = document.createElement('tbody');
+    table.appendChild(tbody);
+    tablewrp.appendChild(table);
+    return tablewrp
+}
+// Define a function to make a table row
+function mkTableRow(subClass, range, subject) {
+    let tr = document.createElement('tr'),
+        td = document.createElement('td'),
+        h4 = document.createElement('h4');
+    node = document.createTextNode(range);
+    h4.appendChild(node);
+    td.appendChild(h4);
+    tr.appendChild(td);
+    td = document.createElement('td');
+    h4 = document.createElement('h4');
+    node = document.createTextNode(subject);
+    h4.appendChild(node);
+    td.appendChild(h4);
+    tr.appendChild(td);
+    let subClassEl = document.querySelector("#"+subClass);
+    subClassEl.querySelector("tbody").appendChild(tr);
+}
+
+// Helper Functions
+function isClass(line) {
+	let classRegEx = new RegExp("^CLASS");
+	if ( classRegEx.test(line) ) {
+		return true
+	}
+}
+function getClass(line) {
+    return line.match(/^CLASS[ES]*\s(.+)$/)[1].trim()
+}
+function isSubClass(line) {
+	let subClassRegEx = new RegExp("^Subclass"),
+        specialSubClassRegEx = new RegExp("^Class");
+	if ( subClassRegEx.test(line) || specialSubClassRegEx.test(line) ) {
+		return true
+	}
+}
+function getSubClass(line) {
+    let specialSubClassRegEx = new RegExp("^Class");
+	if ( specialSubClassRegEx.test(line) ) {
+		return line.match(/^Class(.+)$/)[1].trim()
+	} else {
+        return line.match(/^Subclass[es]*\s(.+)$/)[1].trim()
+    }
+}
+function isSubject(line) {
+	let subjectRegEx = new RegExp("^[A-Z]+[0-9]*");
+	if ( subjectRegEx.test(line) ) {
+		return true
+	}
+}
+function getSubjectSubClass(subject) {
+    let subjectSubClass = subject.match(/^([A-Z]+)/)[1];
+    if ( -1 == subjectSubClass.search('KJ') && -1 == subjectSubClass.search('KK') ) {
+        if ( typeof(document.querySelector('#'+subjectSubClass)) != 'undefined' && document.querySelector('#'+subjectSubClass) != null ) {
+            return subjectSubClass
+        } else if ( typeof(document.querySelector("#"+subjectSubClass.slice(0,-1))) != 'undefined' && document.querySelector('#'+subjectSubClass.slice(0,-1)) != null ) {
+            return subjectSubClass.slice(0,-1)
+        }
+    } else if ( 0 <= subjectSubClass.search('KJ') || 0 <= subjectSubClass.search('KK') ) {
+            return "KJ-KKZ"
+    } else {
+        console.log("This subject couldn't be matched in the getSubjectSubClass function: " + subject);
+    }
+}
+function isEtcetera(line) {
+    let etceteraRegEx = new RegExp("^[ \t]+[A-Za-z0-9(]");
+	if ( etceteraRegEx.test(line) ) {
+		return true
+	}
+}
+function isBlank(line) {
+	let blankRegEx = new RegExp("^ *$");
+	if ( blankRegEx.test(line) ) {
+		return true
+	}
+}
+
+// LCCO Class and Methods
+// Define lcco class
+function lccoClass() {
+    this.lastLine = '';
+	this.lastClass = '';
+    this.lastSubClass = '';
+	this.classes = [];
+	this.subClasses = [];
+    this.subjects = [];
+    this.bin = [];
+}
+// Define load() method for the lcco class
+lccoClass.prototype.load = function(rawArray) {
+	// Iterate through raw array & create class and subclass front end elements
+	rawArray.forEach( function(line) {
+        let lastLine = this.lastLine;
+		if ( isClass(line) ) {
+            let newClass = getClass(line);
+            this.lastClass = newClass;
+			this.classes.push(newClass);
+            mkClassTab(newClass);
+            mkClassPanel(newClass);
+            lastLine = line;
+		} else if ( isSubClass(line) ) {
+            let newSubClass = getSubClass(line);
+            this.lastSubClass = newSubClass;
+            this.subClasses.push(newSubClass);
+            mkSubClassAccordion(this.lastClass, line);
+            lastLine = line;
+		} else if ( isSubject(line) ) {
+            if ( 'INFORMATION RESOURCES (GENERAL)  ' == line ) {
+                lastLine = this.lastLine;
+            } else {
+                this.subjects.push(line);
+                lastLine = line;
+            }
+            if ( isSubClass(this.lastLine) ) {
+                if ( 'Subclasses KJ-KKZ' == this.lastLine ) {
+                    let subClassEl = document.querySelector(".panel-group#"+getSubjectSubClass(line)+" a");
+                    subClassEl.innerHTML = "<span>" + subClassEl.innerHTML + "</span>&nbsp;&nbsp;" + "KJ-KKZ4999 Europe";
+                } else {
+                    let subClassEl = document.querySelector(".panel-group#"+getSubjectSubClass(line)+" a");
+                    subClassEl.innerHTML = "<span>" + subClassEl.innerHTML + "</span>&nbsp;&nbsp;" + line;
+                    // this.subjects.pop();
+                }
+            }
+        } else if ( isEtcetera(line) ) {
+            if ( isSubject(this.lastLine) && !isSubClass(this.lastLine) ) {
+                this.subjects.pop();
+                this.subjects.push(this.lastLine + " " + line);
+                lastLine = this.lastLine + " " + line;
+            }
+        } else if ( isBlank(line) ) {
+            // Silence is golden!
+        } else {
+            this.bin.push(line);
+        }
+        this.lastLine = lastLine;
+	}, this);
+    console.log(this.bin);
+}
+// Define addSubjects() method for the lcco class
+lccoClass.prototype.addSubjects = function() {
+	// Iterate through subjects and build front end
+    this.subjects.forEach( function(subject){
+        let subjectSubClass = getSubjectSubClass(subject),
+            subjectRange = subject.split('\t')[0],
+            subjectLabel = subject.match(/\t+(.*)/)[1];
+        mkTableRow(subjectSubClass, subjectRange, subjectLabel);
+    }, this);
+}
+
+// Primary Functions
+// Main function
+function main(data) {
+    // Split raw text on new lines into an array
+    const rawArray = data.split('\r\n');
+    // Create new lcco object
+    const lcco = new lccoClass();
+    // Call load() method on new lcco object and pass in raw array
+    lcco.load(rawArray);
+    // Call addSubjects() method after load is complete
+    lcco.addSubjects();
+    // For each subclass accordion
+    $('.accordion').each( function() {
+        // If more than one table row (i.e., more than two tds)
+        if ( 2 >= $(this).find('td').length ) {
+            // Add disabled attribute to accordion and disabled class to accordion title
+            $(this).attr('disabled', true);
+            $(this).find('.accordion-title').addClass('disabled');
+        }
+    });
+    // Event listener to search form for submission event. Arrow function to handle event.
+    document.querySelector('.search').addEventListener('submit', event => {
+      // Prevent default form behavior (i.e., page reload)
+      event.preventDefault();
+      // Call search function
+      search();
+    });
+}
+// Document ready
+jQuery(document).ready( function($) {
+    // Set url constant for source text file
+    const url = 'https://raw.githubusercontent.com/Joshua-Adam-Olsen/lcco_tool/main/lcco.txt';
+    // Get raw lcco data from github repo
+	$.get( url, function(data) {
+        // Execute main function
+        main(data);
+    }, 'text');
+});
+</script>
+<!-- END::Footer -->
